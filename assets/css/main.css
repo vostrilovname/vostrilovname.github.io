@@ -72,18 +72,30 @@ input#toggleMenu {
 
 input#toggleMenu:checked ~ header {
     display: block;
+    visibility: visible;
+    opacity: 1;
+    height: auto;
 }
 
 input#toggleMenu ~ header {
-    display: none;
+    transition: opacity .3s linear, height .2s;
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
 }
 
 input#toggleMenu:checked ~ nav {
-    display: none;
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
 }
 
 input#toggleMenu ~ nav {
+    transition: opacity .3s linear, height .2s;
     display: block;
+    visibility: visible;
+    opacity: 1;
+    height: auto;
 }
 
 input#toggleMenu:checked + label {
