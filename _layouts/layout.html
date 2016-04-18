@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.name }}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/main.css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" href="{{ site.baseurl }}favicon.ico">
+    <!-- <link rel="apple-touch-icon" href="{{ site.baseurl }}assets/images/sergei.vostrilov.57.png"> -->
+    <!-- <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}assets/images/sergei.vostrilov.72.png"> -->
+    <!-- <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}assets/images/sergei.vostrilov.114.png"> -->
+
+    <script src="{{ site.baseurl }}assets/js/jquery-1.12.0.min.js"></script>
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <label for="toggleMenu" class="fa fa-navicon btn-lg">&nbsp;Меню</label>
+                <input type="checkbox" id="toggleMenu" checked />
+
+                <header class="toglled">
+                    <a href="{{ site.baseurl }}">
+                        <img src="{{ site.baseurl }}assets/images/sergei.vostrilov.png" alt="Сергей Вострилов" class="img-responsive img-circle me" />
+                        <h1 class="p-f-t">{{ site.name }}</h1>
+                    </a>
+                    <p>
+                        {{ site.description }}
+                    </p>
+                    <p class="small">
+                        <i>про&nbsp;Востриловых, живших до&nbsp;меня,<br />
+                  про&nbsp;мою семью,<br />
+                  про&nbsp;Востриловых, которые будут жить после&nbsp;меня</i>
+                    </p>
+                </header>
+
+                <nav class="toglled">
+                    {% include navigation.html %}
+                </nav>
+
+                <footer>
+                    <p>
+                        <small><a href="{{ site.email_full }}">{{ site.email }}</a></small>
+                        <br />
+                        <small>Hosted on GitHub Pages</small>
+                    </p>
+                </footer>
+            </div>
+
+            <div class="col-md-8">
+                <h1>
+                {{ page.title }}
+              </h1> {{ content }}
+            </div>
+        </div>
+
+    </div>
+
+    <script src="{{ site.baseurl }}assets/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

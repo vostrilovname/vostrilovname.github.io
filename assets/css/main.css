@@ -3,65 +3,47 @@
 @font-face {
     font-family: 'Noto Sans';
     src: url('../fonts/notosans-bold-webfont.eot');
-    src: url('../fonts/notosans-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/notosans-bold-webfont.woff2') format('woff2'),
-         url('../fonts/notosans-bold-webfont.woff') format('woff'),
-         url('../fonts/notosans-bold-webfont.ttf') format('truetype'),
-         url('../fonts/notosans-bold-webfont.svg#noto_sansbold') format('svg');
+    src: url('../fonts/notosans-bold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/notosans-bold-webfont.woff2') format('woff2'), url('../fonts/notosans-bold-webfont.woff') format('woff'), url('../fonts/notosans-bold-webfont.ttf') format('truetype'), url('../fonts/notosans-bold-webfont.svg#noto_sansbold') format('svg');
     font-weight: 700;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'Noto Sans';
     src: url('../fonts/notosans-bolditalic-webfont.eot');
-    src: url('../fonts/notosans-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/notosans-bolditalic-webfont.woff2') format('woff2'),
-         url('../fonts/notosans-bolditalic-webfont.woff') format('woff'),
-         url('../fonts/notosans-bolditalic-webfont.ttf') format('truetype'),
-         url('../fonts/notosans-bolditalic-webfont.svg#noto_sansbold_italic') format('svg');
+    src: url('../fonts/notosans-bolditalic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/notosans-bolditalic-webfont.woff2') format('woff2'), url('../fonts/notosans-bolditalic-webfont.woff') format('woff'), url('../fonts/notosans-bolditalic-webfont.ttf') format('truetype'), url('../fonts/notosans-bolditalic-webfont.svg#noto_sansbold_italic') format('svg');
     font-weight: 700;
     font-style: italic;
 }
-
 @font-face {
     font-family: 'Noto Sans';
     src: url('../fonts/notosans-italic-webfont.eot');
-    src: url('../fonts/notosans-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/notosans-italic-webfont.woff2') format('woff2'),
-         url('../fonts/notosans-italic-webfont.woff') format('woff'),
-         url('../fonts/notosans-italic-webfont.ttf') format('truetype'),
-         url('../fonts/notosans-italic-webfont.svg#noto_sansitalic') format('svg');
+    src: url('../fonts/notosans-italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/notosans-italic-webfont.woff2') format('woff2'), url('../fonts/notosans-italic-webfont.woff') format('woff'), url('../fonts/notosans-italic-webfont.ttf') format('truetype'), url('../fonts/notosans-italic-webfont.svg#noto_sansitalic') format('svg');
     font-weight: 400;
     font-style: italic;
 }
-
 @font-face {
     font-family: 'Noto Sans';
     src: url('../fonts/notosans-regular-webfont.eot');
-    src: url('../fonts/notosans-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/notosans-regular-webfont.woff2') format('woff2'),
-         url('../fonts/notosans-regular-webfont.woff') format('woff'),
-         url('../fonts/notosans-regular-webfont.ttf') format('truetype'),
-         url('../fonts/notosans-regular-webfont.svg#noto_sansregular') format('svg');
+    src: url('../fonts/notosans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/notosans-regular-webfont.woff2') format('woff2'), url('../fonts/notosans-regular-webfont.woff') format('woff'), url('../fonts/notosans-regular-webfont.ttf') format('truetype'), url('../fonts/notosans-regular-webfont.svg#noto_sansregular') format('svg');
     font-weight: 400;
     font-style: italic;
 }
-
 html {
     font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
-body{
+body {
     color: #727272;
 }
-
-h1,
-h2,
-h3,
-h4,
-h5 {
+h1, h2, h3, h4, h5 {
     color: #111;
+}
+img.me {
+    max-width: 12em;
+}
+@media (min-width: 768px) {
+    img.me {
+        margin-left: 2em;
+    }
 }
 
 /* LEFT MENU */
@@ -69,67 +51,27 @@ h5 {
 input#toggleMenu {
     display: none;
 }
-
 input#toggleMenu:checked ~ header {
     display: block;
     visibility: visible;
     opacity: 1;
     height: auto;
 }
-
 input#toggleMenu ~ header {
     transition: opacity .3s linear, height .2s;
     visibility: hidden;
     opacity: 0;
     height: 0;
 }
-
 input#toggleMenu:checked ~ nav {
     visibility: hidden;
     opacity: 0;
     height: 0;
 }
-
 input#toggleMenu ~ nav {
     transition: opacity .3s linear, height .2s;
     display: block;
     visibility: visible;
     opacity: 1;
     height: auto;
-}
-
-input#toggleMenu:checked + label {
-    display: block;
-}
-
-input#toggleMenu + label {
-    display: none;
-}
-
-#header label {
-    cursor: pointer;
-}
-
-@media (min-width: 768px) {
-    #header .fixed {
-        position: fixed;
-        width: inherit;
-        max-width: 210px;
-    }
-
-    #header .row,
-    #header .header {
-        margin-top: 3em;
-    }
-
-    #content section {
-        margin-top: 3em;
-    }
-}
-
-#header label,
-#header div,
-#header h1 {
-    margin-left: 0;
-    padding-left: 0;
 }

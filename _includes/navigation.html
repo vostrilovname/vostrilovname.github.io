@@ -1,0 +1,54 @@
+<ul>
+    <li>
+        <strong>Моя родословная</strong>
+        <ul>
+            {% for post in site.posts reversed  %} {% if post.tag contains 'ancestry' %}
+            <li>
+                <a href="{{ post.url }}">{{ post.title }}, часть&nbsp;{{ post.part }}</a>
+            </li>
+            {% endif %} {% endfor %}
+        </ul>
+    </li>
+    {% for post in site.posts %} {% if post.tag contains 'ancestry' %} {% else %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }} {{ post.tag }}</a>
+    </li>
+    {% endif %} {% endfor %}
+
+
+    <li><strong>История семьи</strong>
+        <ul>
+            <li>Очерк (XII&nbsp;&ndash;&nbsp;XIX&nbsp;вв.)</li>
+            <li>Очерк (XX&nbsp;&ndash;&nbsp;XXI&nbsp;вв.)</li>
+            <li>Предания, легенды, байки</li>
+            <li>Моя семья (Очерк с&nbsp;фотографиями и&nbsp;видео)</li>
+        </ul>
+    </li>
+    <li><strong>Библиотека</strong>
+        <ul>
+            <li>Книги А.&nbsp;В.&nbsp;Вострилова</li>
+            <li>Публикации об&nbsp;А.&nbsp;В.&nbsp;Вострилове</li>
+            <li>Другие публикации</li>
+        </ul>
+    </li>
+    <li><strong>Фотогалерея</strong>
+    </li>
+    <li><strong>Кинозал</strong>
+        <ul>
+            <li>Фильмы продюсера, автора сценария, журналиста С.&nbsp;А.&nbsp;Вострилова</li>
+            <li>Хроника разных лет</li>
+            <li>Видеосюжеты М.&nbsp;Дубовой</li>
+            <li>Разное видео</li>
+        </ul>
+    </li>
+    <li><strong>Блог</strong>
+        <ul>
+            <li>Дневник С.&nbsp;А.&nbsp;Вострилова</li>
+            <li>Цитатник</li>
+        </ul>
+    </li>
+    <li><strong>Персонально</strong>
+    </li>
+    <li><strong>Друзья семьи</strong>
+    </li>
+</ul>

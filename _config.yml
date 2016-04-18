@@ -1,0 +1,35 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://vostrilov.name
+author: Sergei Vostrilov
+
+# edit this section with your information
+# for a normal use at the base of the server change it to "/"
+baseurl: /
+title: Сергей Вострилов
+name: Сергей Вострилов
+description: Опыт семейного сайта
+email: info@vostrilov.name
+email_full: mailto:info@vostrilov.name
+website: github.io/sustain
+website_full: https://github.com/vostrilovname
+github: vostrilovname
+twitter: vostrilovname
+tel: +7 0000 000000
+tel_full: tel:+70000000000
+google_maps: ''
+address:
+postcode:
+city:
+country:
+google_analytics:
+
+# needed for travis-ci build
+exclude: [vendor]
