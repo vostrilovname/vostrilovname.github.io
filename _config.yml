@@ -2,7 +2,7 @@ highlighter: pygments
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
+permalink: /:path.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000

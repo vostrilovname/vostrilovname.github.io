@@ -1,0 +1,71 @@
+{% include head.html %}
+
+<body>
+    <div class="container">
+        <header class="row page-header">
+
+            <div class="col-sm-6 center-block">
+                <a href="{{ site.baseurl }}">
+                    <img src="{{ site.baseurl }}assets/images/sergei.vostrilov.png" alt="Сергей Вострилов" class="img-circle me small pull-left " />
+                    <h1 class="p-f-t">{{ site.name }}</h1>
+                </a>
+            </div>
+        </header>
+        <div class="row">
+            <div class="col-sm-3">
+
+                <div class="visible-xs-block" style="margin: .5em 0">
+                    <label for="toggleMenu" class="fa fa-navicon btn-lg pointer">&nbsp;Оглавление</label>
+                </div>
+                <p>Анатолий Вострилов,
+                    <br />&laquo;<strong>Моя родословная</strong>&raquo;:</p>
+                <p class="text-right"><i>Путешествие на&nbsp;тот&nbsp;свет и&nbsp;обратно</i></p>
+                <input type="checkbox" id="toggleMenu" checked />
+                <nav>
+                    <ul class="list-unstyled">
+                        <li>
+                            <ul>
+                                {% for post in site.posts reversed | post.tag contains 'ancestry' %}
+                                <li>
+                                    {% if post.part == page.part %}
+                                    <span title="«Моя родословная», часть {{ page.part }}, автор - Анатолий Вострилов">Часть&nbsp;{{ post.part }}</span> {% else %}
+                                    <a href="{{ post.url }}" title="«Моя родословная», часть {{ page.part }}, автор - Анатолий Вострилов">Часть&nbsp;{{ post.part }}</a> {% endif %}
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+                <ul class="list-unstyled hidden-xs">
+                    <li>
+                        <ul>
+                            {% for post in site.posts reversed | post.tag contains 'ancestry' %}
+                            <li>
+                                {% if post.part == page.part %}
+                                <span title="«Моя родословная», часть {{ page.part }}, автор - Анатолий Вострилов">Часть&nbsp;{{ post.part }}</span> {% else %}
+                                <a href="{{ post.url }}" title="«Моя родословная», часть {{ page.part }}, автор - Анатолий Вострилов">Часть&nbsp;{{ post.part }}</a> {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <article class="col-sm-9">
+                <h2>Часть&nbsp;{{ page.part }}</h2> {{ content }}
+            </article>
+        </div>
+
+        <!-- Pagination links -->
+        <div class="col-sm-offset-4">
+            <div>
+                {% assign page_prev = page.part | minus: 1 %} {% for post in site.posts reversed | post.tag contains 'ancestry' %}{% if post.part == page_prev %}
+                <a href="{{post.url}}">Назад: часть&nbsp;{{ page_prev}}</a> {% endif %}{% endfor %} | {% assign page_next = page.part | plus: 1 %} {% for post in site.posts reversed | post.tag contains 'ancestry' %} {% if post.part == page_next %}
+                <a href="{{post.url}}">Далее: часть&nbsp;{{ page_next}}</a> {% endif %} {% endfor %}
+            </div>
+        </div>
+
+        {% include footerscripts.html %}
+
+</body>
+
+</html>

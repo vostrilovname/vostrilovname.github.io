@@ -32,6 +32,7 @@ html {
     font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body {
+    font-size: 16px;
     color: #727272;
 }
 h1, h2, h3, h4, h5 {
@@ -41,11 +42,16 @@ h1, h2, h3, h4, h5 {
     cursor: pointer;
 }
 img.me {
-    max-width: 12em;
+    max-width: 10em;
+}
+img.me.small {
+    width: 3em;
+    margin-top: 1.2em;
+    margin-right: 1em;
 }
 @media (min-width: 768px) {
     img.me {
-        margin-left: 2em;
+        margin-left: 0em;
     }
 }
 
