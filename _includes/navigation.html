@@ -1,13 +1,7 @@
 <ul class="list-unstyled">
     <li>
         <p>Анатолий Вострилов,
-            <br />&laquo;<strong>Моя родословная</strong>&raquo;:</p>
-        <ul>
-            {% for post in site.posts reversed | post.tag contains 'ancestry' %}
-            <li>
-                <a href="{{ post.url }}" title="«Моя родословная», часть {{ page.part }}, автор - Анатолий Вострилов">Часть&nbsp;{{ post.part }}</a>
-            </li>{% endfor %}
-        </ul>
+            <br />&laquo;<a href="{{ site.url }}/ancestry/2016-04-18-ancestry01.html"><strong>Моя родословная</strong></a>&raquo;</p>
     </li>
 
     <li>

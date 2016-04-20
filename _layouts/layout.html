@@ -29,13 +29,6 @@
                     {% include navigation.html %}
                 </nav>
 
-                <footer>
-                    <p>
-                        <small><a href="{{ site.email_full }}">{{ site.email }}</a></small>
-                        <br />
-                        <small>Hosted on GitHub Pages</small>
-                    </p>
-                </footer>
             </div>
 
             <div class="col-md-8">
@@ -45,7 +38,14 @@
             </div>
         </div>
 
+        <footer class="footer">
+            <p>
+                <small><a href="{{ site.email_full }}">{{ site.email }}</a></small>
+                <br />
+            </p>
+        </footer>
     </div>
+
 
     {% include footerscripts.html %}
 

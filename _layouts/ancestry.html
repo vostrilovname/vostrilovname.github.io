@@ -63,8 +63,15 @@
                 <a href="{{post.url}}">Далее: часть&nbsp;{{ page_next}}</a> {% endif %} {% endfor %}
             </div>
         </div>
+        <footer>
+            <p>
+                <small><a href="{{ site.email_full }}">{{ site.email }}</a></small>
+                <br />
+            </p>
+        </footer>
+    </div>
 
-        {% include footerscripts.html %}
+    {% include footerscripts.html %}
 
 </body>
 
