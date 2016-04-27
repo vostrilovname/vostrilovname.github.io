@@ -42,7 +42,7 @@
                 </article>
 
 
-                {% if site.posts[0] %} {% assign post = site.posts[0] %} {% unless post.tag contains 'ancestry' %}
+                {% if site.posts[0] %} {% assign post = site.posts[0] %}
                 <h3>Недавние записи блога</h3>
                 <div>
                     <p>
@@ -54,7 +54,7 @@
                         <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
                     </div>
                 </div>
-                {% endunless %} {% endif %} {% if site.posts[1] %} {% assign post = site.posts[1] %} {% unless post.tag contains 'ancestry' %}
+                {% endif %} {% if site.posts[1] %} {% assign post = site.posts[1] %}
                 <hr />
                 <div>
                     <p>
@@ -67,7 +67,14 @@
                         <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
                     </div>
                 </div>
-                {% endunless %} {% endif %}
+                {% endif %}{% if site.posts[1] %} {% assign post = site.posts[2] %}
+                <hr />
+                <div>
+                    <p>
+                        <a href="{{ site.baseurl }}blog/" title="Дневник С.&nbsp;А.&nbsp;Вострилова">Читать</a> предыдущие записи блога
+                    </p>
+                </div>
+                {% endif %}
             </div>
         </div>
 
