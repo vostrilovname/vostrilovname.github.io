@@ -35,6 +35,9 @@ body {
     font-size: 16px;
     color: #727272;
 }
+.container {
+    background: transparent url(/assets/images/1505336e.jpg) 50% -208px no-repeat
+}
 h1, h2, h3, h4, h5 {
     color: #111;
 }
