@@ -37,22 +37,52 @@
                         {% assign post = page %} {% include dateformat.html %}
                     </p>
                     <h1>{{ page.title }}</h1> {{ content }}
+
+                    <a href="{{ site.url }}{{ page.url }}#disqus_thread"></a>.
                 </article>
 
                 {% if page.next %} {% assign post = page.next %}
                 <hr />
-                <div class="">
-                    <p>
-                        Читайте далее:
-                    </p>
-                    <h3>
-                    <a href="{{post.url}}" title="{{ post.title }}">{{ post.title }}</a>
-                </h3>
-                    <p>
-                        {% include dateformat.html %}
-                    </p>
+                <div class="row">
+                    <div class="col-sm-9 col-sm-push-3">
+                        <p>
+                            Читайте далее:
+                        </p>
+                        <h3>
+                            <a href="{{post.url}}" title="{{ post.title }}">{{ post.title }}</a>
+                        </h3>
+                        <p>
+                            {% include dateformat.html %}
+                        </p>
+                        {{ post.excerpt }}
+                    </div>
                 </div>
-                {{ post.excerpt }} {% endif %}
+                {% endif %}
+
+                <hr />
+
+
+                <div id="disqus_thread" data-url="{{ site.url }}{{ page.url }}" data-id="{{ page.url }}"></div>
+                <script>
+                    $('a[href*=disqus_thread]').on('chanhe', function(e){
+                        alert(this);
+                    });
+                    var disqus_config = function() {
+                        this.language = "ru";
+                        this.page.url = $('#disqus_thread').attr('data-url');
+                        this.page.identifier = $('#disqus_thread').attr('data-id');
+                    };
+                    (function() {
+                        var d = document,
+                            s = d.createElement('script');
+                        s.src = '//vostrilovname.disqus.com/embed.js';
+                        s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Включите Javascript для правильной работы комментариев <a href="https://disqus.com/?ref_noscript" rel="nofollow">Disqus.</a></noscript>
+
+
             </div>
         </div>
 
@@ -66,6 +96,7 @@
 
 
     {% include footerscripts.html %}
+    <script id="dsq-count-scr" src="//vostrilovname.disqus.com/count.js" async></script>
 
 </body>
 
