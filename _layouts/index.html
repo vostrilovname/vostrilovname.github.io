@@ -1,0 +1,81 @@
+{% include head.html %}
+
+<body>
+    <div class="container">
+        <div class="page-header">
+            <label for="toggleMenu" class="fa fa-navicon btn-lg pointer">&nbsp;Меню</label>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <input type="checkbox" id="toggleMenu" checked />
+
+
+                <header class="toglled">
+                    <a href="{{ site.baseurl }}">
+                        <img src="{{ site.baseurl }}assets/images/sergei.vostrilov.png" alt="Сергей Вострилов" class="img-responsive img-circle me" />
+                        <h1 class="p-f-t">{{ site.name }}</h1>
+                    </a>
+                    <p>
+                        {{ site.description }}
+                    </p>
+                    <p class="small">
+                        <i>про&nbsp;Востриловых, живших до&nbsp;меня,<br />
+                  про&nbsp;мою семью,<br />
+                  про&nbsp;Востриловых, которые будут жить после&nbsp;меня</i>
+                    </p>
+                </header>
+
+                <nav class="toglled">
+                    {% include navigation.html %}
+                </nav>
+
+            </div>
+
+            <div class="col-md-8">
+                <article>
+                    <h1>
+                        {{ page.title }}
+                    </h1>
+                    <div>
+                        {{ content }}
+                    </div>
+                </article>
+
+
+                {% if site.posts[0] %} {% assign post = site.posts[0] %} {% unless post.tag contains 'ancestry' %}
+                <h3>Недавние записи блога</h3>
+                <div>
+                    <p>
+                        {% assign m = post.date | date: "%-m" %} {{ post.date | date: "%-d" }} {% case m %} {% when '1' %}января {% when '2' %}февраля {% when '3' %}марта {% when '4' %}апреля {% when '5' %}мая {% when '6' %}июня {% when '7' %}июля {% when '8' %}августа {% when
+                        '9' %}сентября {% when '10' %}октября {% when '11' %}ноября {% when '12' %}декабря {% endcase %} {{ post.date | date: "%Y" }}</p>
+                    <h2><a href="{{ post.url }}" title="{{ post.title }}">
+                        {{ post.title }}</a></h2> {{ post.excerpt }}
+                </div>
+                {% endunless %} {% endif %} {% if site.posts[1] %} {% assign post = site.posts[1] %} {% unless post.tag contains 'ancestry' %}
+                <hr  />
+                <div>
+                    <p>
+                        {% assign m = post.date | date: "%-m" %} {{ post.date | date: "%-d" }} {% case m %} {% when '1' %}января {% when '2' %}февраля {% when '3' %}марта {% when '4' %}апреля {% when '5' %}мая {% when '6' %}июня {% when '7' %}июля {% when '8' %}августа {% when
+                        '9' %}сентября {% when '10' %}октября {% when '11' %}ноября {% when '12' %}декабря {% endcase %} {{ post.date | date: "%Y" }}</p>
+                    <h2><a href="{{ post.url }}" title="{{ post.title }}">
+                        {{ post.title }}</a>
+                    </h2> {{ post.excerpt }}
+                </div>
+                {% endunless %} {% endif %}
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>
+                <small><a href="{{ site.email_full }}">{{ site.email }}</a></small>
+                <br />
+            </p>
+        </footer>
+    </div>
+
+
+    {% include footerscripts.html %}
+
+</body>
+
+</html>

@@ -39,18 +39,10 @@
                 </ul>
             </div>
             <article class="col-sm-9">
-                <h2>Часть&nbsp;{{ page.part }}</h2> {{ content }}
+                {{ content }}
             </article>
         </div>
 
-        <!-- Pagination links -->
-        <div class="col-sm-offset-4">
-            <div>
-                {% assign page_prev = page.part | minus: 1 %} {% assign page_next = page.part | plus: 1 %} {% for post in site.ancestry %}{% if post.part == page_prev %}
-                <a href="{{post.url}}">Назад: часть&nbsp;{{ page_prev}}</a> {% endif %}{% endfor %} | {% for post in site.ancestry %} {% if post.part == page_next %}
-                <a href="{{post.url}}">Далее: часть&nbsp;{{ page_next}}</a> {% endif %} {% endfor %}
-            </div>
-        </div>
         <footer>
             <p>
                 <small><a href="{{ site.email_full }}">{{ site.email }}</a></small>

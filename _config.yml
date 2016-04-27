@@ -4,9 +4,11 @@ rdiscount:
   extensions: [smart]
 permalink: /:path.html
 paginate: 5
+paginate_path: "/blog/page:num/"
 gems: [jekyll-paginate]
 port: 4000
-safe: true
+excerpt_separator: <!--more-->
+safe: false
 url: http://vostrilov.name
 author: Sergei Vostrilov
 
@@ -33,3 +35,9 @@ google_analytics:
 
 # needed for travis-ci build
 exclude: [vendor]
+
+#custom pages
+collections:
+  ancestry:
+    tag: 'ancestry'
+    output: true
