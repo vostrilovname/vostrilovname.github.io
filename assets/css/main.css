@@ -41,6 +41,32 @@ body {
 h1, h2, h3, h4, h5 {
     color: #111;
 }
+.melarge a, .mesmall a {
+    color: #343434;
+}
+.melarge span {
+    display: block;
+    line-height: 1em;
+    margin-top: .75em;
+    font-size: 2em;
+}
+.mesmall img {
+    float: left;
+    margin-top: 0em;
+}
+.mesmall span {
+    float: left;
+    display: block;
+    margin-top: .5em;
+    margin-bottom: -.5em;
+    font-size: 2em;
+}
+@media (min-width: 768px) {
+    .mesmall span {
+        margin-top: .75em;
+        margin-bottom: -.75em;
+    }
+}
 .pointer {
     cursor: pointer;
 }
@@ -57,6 +83,7 @@ img.shadow {
 }
 @media (min-width: 768px) {
     img.me {
+        min-width: 4em;
         margin-left: 0em;
     }
 }
