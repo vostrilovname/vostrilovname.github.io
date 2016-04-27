@@ -52,6 +52,9 @@ img.me.small {
     margin-top: 1.2em;
     margin-right: 1em;
 }
+img.shadow {
+    box-shadow: #fff 0px 0px 4px, #888 2px 5px 25px;
+}
 @media (min-width: 768px) {
     img.me {
         margin-left: 0em;
