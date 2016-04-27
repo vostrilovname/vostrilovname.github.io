@@ -50,9 +50,12 @@
                         '9' %}сентября {% when '10' %}октября {% when '11' %}ноября {% when '12' %}декабря {% endcase %} {{ post.date | date: "%Y" }}</p>
                     <h2><a href="{{ post.url }}" title="{{ post.title }}">
                         {{ post.title }}</a></h2> {{ post.excerpt }}
+                    <div>
+                        <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
+                    </div>
                 </div>
                 {% endunless %} {% endif %} {% if site.posts[1] %} {% assign post = site.posts[1] %} {% unless post.tag contains 'ancestry' %}
-                <hr  />
+                <hr />
                 <div>
                     <p>
                         {% assign m = post.date | date: "%-m" %} {{ post.date | date: "%-d" }} {% case m %} {% when '1' %}января {% when '2' %}февраля {% when '3' %}марта {% when '4' %}апреля {% when '5' %}мая {% when '6' %}июня {% when '7' %}июля {% when '8' %}августа {% when
@@ -60,6 +63,9 @@
                     <h2><a href="{{ post.url }}" title="{{ post.title }}">
                         {{ post.title }}</a>
                     </h2> {{ post.excerpt }}
+                    <div>
+                        <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
+                    </div>
                 </div>
                 {% endunless %} {% endif %}
             </div>
@@ -73,9 +79,8 @@
         </footer>
     </div>
 
-
     {% include footerscripts.html %}
-
+    <script id="dsq-count-scr" src="//vostrilovname.disqus.com/count.js" async></script>
 </body>
 
 </html>
