@@ -63,6 +63,11 @@ img.shadow {
 footer {
     margin-top: 1em;
 }
+label.navbutton {
+    margin-bottom: 1.2em;
+    font-size: 1.4em;
+    color: #111;
+}
 
 /* LEFT MENU */
 
