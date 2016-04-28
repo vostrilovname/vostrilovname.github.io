@@ -5,7 +5,7 @@ rdiscount:
 permalink: /:path.html
 paginate: 5
 paginate_path: "/blog/page:num/"
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 port: 4000
 excerpt_separator: <!--more-->
 safe: false
@@ -20,7 +20,7 @@ name: Сергей Вострилов
 description: Опыт семейного сайта
 email: info@vostrilov.name
 email_full: mailto:info@vostrilov.name
-website: github.io/sustain
+website: github.com/vostrilovname
 website_full: https://github.com/vostrilovname
 github: vostrilovname
 twitter: vostrilovname
