@@ -41,3 +41,6 @@ collections:
   ancestry:
     tag: 'ancestry'
     output: true
+  legends:
+    tag: 'legends'
+    output: true
