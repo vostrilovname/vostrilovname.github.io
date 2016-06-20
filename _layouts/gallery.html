@@ -22,7 +22,7 @@
 
             <div class="col-md-8">
                 <h1>{{ page.title }}</h1>
-                <div id="gallery" style="display:none;margin-left:-30px">
+                <div>
                     {{ content }}
                 </div>
             </div>
@@ -44,7 +44,7 @@
     <script type="text/javascript">
         jQuery(document).ready(function() {
 
-            jQuery("#gallery").unitegallery({
+            jQuery("[id^=gallery]").unitegallery({
                 gallery_width: "960",
                 tile_enable_border: true,
                 tile_border_color: "#ffffff",

@@ -125,3 +125,6 @@ input#toggleMenu ~ nav {
     opacity: 1;
     height: auto;
 }
+div[id^=gallery] {
+    margin-left: -30px;
+}
