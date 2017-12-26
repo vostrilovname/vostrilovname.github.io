@@ -5,7 +5,7 @@ rdiscount:
 permalink: /:path.html
 paginate: 5
 paginate_path: "/blog/page:num/"
-gems: [jekyll-paginate, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-sitemap]
 port: 4000
 excerpt_separator: <!--more-->
 safe: false
