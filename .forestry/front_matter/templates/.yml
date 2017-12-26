@@ -1,30 +1,28 @@
 ---
-pages:
-- _posts/2017-12-27-yjdfz.md
 hide_body: false
 fields:
-- type: select
-  name: layout
-  config:
-    source:
-      type: simple
-    required: true
-    options:
-    - blog
-    - ancestry
-    - legends
-  label: "Шаблон"
 - type: text
-  label: "Заголовок"
-  name: title
-  description: "название страницы"
+  name: layout
+  label: "Шаблон"
   config:
     required: true
-- type: datetime
-  name: date
+  hidden: true
+  default: legends
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
   label: "Дата"
+  type: datetime
+  hidden: true
+  default: ''
   config:
     required: true
-- type: tag_list
-  name: tag
-  label: "Теги"
+- name: tag
+  label: Tag
+  type: tag_list
+  hidden: false
+  default:
+  - legends
