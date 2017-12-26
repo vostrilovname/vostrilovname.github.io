@@ -1,0 +1,20 @@
+---
+hide_body: false
+fields:
+- type: text
+  config:
+    required: true
+  label: "Шаблон"
+  name: layout
+  description: blog для записей блога
+- type: text
+  label: "Заголовок"
+  name: title
+  description: "название страницы"
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: "Дата"
+  config:
+    required: true
