@@ -4,7 +4,7 @@ pages:
 hide_body: false
 fields:
 - type: select
-  name: template
+  name: layout
   config:
     source:
       type: simple
@@ -25,3 +25,6 @@ fields:
   label: "Дата"
   config:
     required: true
+- type: tag_list
+  name: tag
+  label: "Теги"
