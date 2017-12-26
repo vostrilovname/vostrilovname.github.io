@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/yjdfz.md
 hide_body: false
 fields:
 - type: text
