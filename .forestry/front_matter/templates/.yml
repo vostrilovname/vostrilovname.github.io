@@ -3,12 +3,17 @@ pages:
 - _posts/2017-12-27-yjdfz.md
 hide_body: false
 fields:
-- type: text
+- type: select
+  name: template
   config:
+    source:
+      type: simple
     required: true
+    options:
+    - blog
+    - ancestry
+    - legends
   label: "Шаблон"
-  name: layout
-  description: blog для записей блога
 - type: text
   label: "Заголовок"
   name: title
