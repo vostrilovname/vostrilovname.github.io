@@ -14,7 +14,7 @@ author: Sergei Vostrilov
 
 # edit this section with your information
 # for a normal use at the base of the server change it to "/"
-baseurl: /
+base_url: /
 title: Сергей Вострилов
 name: Сергей Вострилов
 description: Опыт семейного сайта
