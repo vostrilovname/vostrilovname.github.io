@@ -1,28 +1,15 @@
 ---
-label: Блог
+label: Цитатник
 hide_body: false
 is_partial: false
 fields:
-- type: text
-  name: layout
-  label: Шаблон
-  hidden: true
-  config:
-    required: true
-  default: blog
-- type: text
-  label: Заголовок
-  name: title
-  description: название страницы
-  config:
-    required: true
-- type: datetime
-  name: date
-  label: Дата
-  config:
-    required: true
-- type: tag_list
-  name: tag
-  label: Теги
-pages:
-- _posts/2017-12-27-yjdfz.md
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
