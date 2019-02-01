@@ -4,21 +4,21 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
+- type: jekyll-posts
+  label: Posts
   create: all
-- type: directory
-  path: _legends
-  label: Legends
-  create: all
-  match: "**/*"
 - type: directory
   path: _ancestry
   label: Ancestry
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
+- type: directory
+  path: _legends
+  label: Legends
+  create: all
+  match: "**/*"
+- type: jekyll-pages
+  label: Pages
   create: all
 upload_dir: uploads
 public_path: "/uploads"
