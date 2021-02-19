@@ -1,5 +1,5 @@
 ---
-label: friends
+label: 'Шаблон: друзья семьи'
 hide_body: false
 fields:
 - type: text
