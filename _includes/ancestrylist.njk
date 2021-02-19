@@ -1,0 +1,7 @@
+<ul class="ancestrylist">
+{% for post in postslist %}
+  <li class="ancestrylist-item{% if post.url == url %} ancestrylist-item-active{% endif %}">
+    <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}{% if post.data.part %}. Часть&nbsp;{{ post.data.part }}{% endif %}</a>
+  </li>
+{% endfor %}
+</ul>

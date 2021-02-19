@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-ancestry
+---
+<h1>{{ title }}{% if part %}, часть&nbsp;{{ part }}{% endif %}</h1>
+
+{{ content | safe }}
+
+<hr>
+<ul>
+  {%- set nextItem = collections.ancestry | getNextCollectionItem(page) %}
+  {%- if nextItem %}<li><a href="{{ nextItem.url | url }}" title="{{ nextItem.data.title }}{% if nextItem.data.part %}, часть&nbsp;{{ nextItem.data.part }}{% endif %}">Следующая часть</a></li>{% endif %}
+  {%- set previousItem = collections.ancestry | getPreviousCollectionItem(page) %}
+  {%- if previousItem %}<li><a href="{{ previousItem.url | url }}" title="{{ previousItem.data.title }}{% if previousItem.data.part %}, часть&nbsp;{{ previousItem.data.part }}{% endif %}">Предыдущая часть</a></li>{% endif %}
+</ul>

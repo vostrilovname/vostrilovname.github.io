@@ -1,0 +1,7 @@
+<ul>
+{%- for entry in navPages %}
+  <li>
+    <a href="{{ entry.url | url }}">{{ entry.title | safe }}</a>
+  </li>
+{%- endfor %}
+</ul>

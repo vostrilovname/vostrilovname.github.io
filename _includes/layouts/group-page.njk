@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+<h1>
+    {{ title | safe }}
+</h1>
+<p>
+    Здесь собраны следующие материалы:
+</p>
+{% set navPages = collections.all | eleventyNavigation(eleventyNavigation.key) %}
+{% include 'nav-group.njk' %}

@@ -1,0 +1,13 @@
+---
+layout: layouts/home.njk
+permalink: /ancestry/
+eleventyNavigation:
+  key: Анатолий Вострилов, «Моя родословная»
+  parent: История семьи
+  order: 0
+---
+
+<h1>Анатолий Вострилов, «Моя родословная»</h1>
+
+{% set postslist = collections.ancestry %}
+{% include "ancestrylist.njk" %}

@@ -1,0 +1,25 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Главная
+  order: 0
+---
+
+<!-- Delete this message -->
+<div >
+  {{ metadata.description }}
+</div>
+<!-- Stop deleting -->
+
+{% set limit = 3 %}
+{% set maxPosts = collections.stories.length | min(limit) %}
+<h1>Недавние рассказы</h1>
+
+{% set postslist = collections.stories | head(-1*limit) %}
+{% set postslistCounter = collections.stories | length %}
+{% include "postslist.njk" %}
+
+
+{% if limit < collections.stories.length %}
+  <p>Ещё больше размышлений в прошлых <a href="{{ '/stories/' | url }}">записях</a>.</p>
+{% endif %}

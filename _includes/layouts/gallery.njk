@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include 'head.njk' %}
+
+        <!-- nanogallery -->
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+        <link href="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/jquery.nanogallery2.min.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="home">
+                <h1>
+                    <a href="{{ '/' | url }}">{{ metadata.title }}</a>
+                </h1>
+                <p>семейный сайт</p>
+            </div>
+        </header>
+
+        <nav>
+            {% include 'nav.njk' %}
+        </nav>
+
+        <main {% if templateclass %} class="{{ templateClass }}" {% endif %}>
+            <h1>{{ title }}</h1>
+
+            <div class="nanogallery-container">
+                <div id="my_nanogallery2" data-nanogallery2='{
+"thumbnailHeight":  "auto",
+"thumbnailWidth":   "250",
+"thumbnailL1GutterWidth": 4,
+"thumbnailL1GutterHeight": 4,
+"thumbnailBorderHorizontal": 5,
+"thumbnailBorderVertical": 5,
+"thumbnailLabel": {
+    "display": true,
+    "position":"overImage",
+    "hideIcons": true,
+    "titleFontSize": "0.8em",
+    "align": "right",
+    "titleMultiLine": true,
+    "displayDescription": false
+},
+"thumbnailToolbarAlbum": null,
+"thumbnailToolbarImage": {
+    "topLeft": "display"
+},
+"galleryTheme": {
+    "thumbnail": {
+        "background": "#6d8f82",
+        "backgroundImage": "linear-gradient(315deg, #111 0%, #557 90%)",
+        "borderColor": "#fff",
+        "labelOpacity": 1,
+        "labelBackground": "#6d8f82",
+        "titleColor": "#eee",
+        "titleBgColor": "#6d8f82",
+        "titleShadow": "none"
+    }
+}
+		}'>
+
+                    {% for image in gallery.images %}
+                        <a alt="{{ image.title }}" href="{{ '/assets/gallery/' + image.src | url }}" data-ngthumb="{{ '/assets/gallery/' + image.src | url }}">
+                            <img src="{{ '/assets/gallery/' + image.src | url }}" alt="{{ image.title }}"/>
+                        </a>
+                    {% endfor %}
+
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            {% include 'footer.njk' %}
+        </footer>
+
+        <!-- Current page: {{ page.url | url }} -->
+    </body>
+
+</html>

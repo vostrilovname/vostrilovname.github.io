@@ -1,0 +1,34 @@
+<p>
+    <a href="/">
+        <img src="/assets/img/sergei.vostrilov.png" alt="Сергей Вострилов" class="img-responsive img-circle me shadow">
+    </a>
+</p>
+<p class="small">
+    <i>про&nbsp;Востриловых, живших до&nbsp;меня,<br>
+        про&nbsp;мою семью,<br>
+        про&nbsp;Востриловых, которые будут жить после&nbsp;меня</i>
+</p>
+
+<p>
+    {{ page | dump }}
+    </p>
+
+{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+{% set navPages = collections.all | eleventyNavigation %}
+{% macro renderNavListItem(entry) -%}
+    <li {% if entry.url == page.url %} class="my-active-class" {% endif %}>
+        {{ entry | dump }}
+        <a href="{{ entry.url | url }}">{{ entry.title | safe }}</a>
+        {%- if entry.children.length -%}
+            <ul>
+                {%- for child in entry.children %}{{ renderNavListItem(child) }}
+                {% endfor -%}
+        </ul>
+    {%- endif -%}
+</li>
+{%- endmacro %}
+
+<ul>
+{%- for entry in navPages %}{{ renderNavListItem(entry) }}
+{%- endfor -%}
+</ul>

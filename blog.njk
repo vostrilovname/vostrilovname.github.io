@@ -1,0 +1,14 @@
+---
+layout: layouts/home.njk
+permalink: /stories/
+eleventyNavigation:
+  key: Рассказы
+  order: 1
+---
+
+<h1>Рассказы</h1>
+
+<p>Люблю читать произведения А. П. Чехова и С. Д. Довлатова. Оба замечательные рассказчики. В своем творчестве хочется быть похожим именно на них.</p>
+
+{% set postslist = collections.stories %}
+{% include "postslist.njk" %}

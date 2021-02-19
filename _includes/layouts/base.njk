@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include 'head.njk' %}
+  </head>
+  <body>
+    <header>
+      <div class="home">
+        <h1 class="home">
+          <a href="{{ '/' | url }}">{{ metadata.title }}</a>
+        </h1>
+        <p>семейный сайт</p>
+      </div>
+    </header>
+
+    <nav>
+      {% include 'nav.njk' %}
+    </nav>
+
+    <main {% if templateclass %} class="{{ templateClass }}" {% endif %}>
+      {{ content | safe }}
+    </main>
+
+    <footer>
+      {% include 'footer.njk' %}
+    </footer>
+
+    <!-- Current page: {{ page.url | url }} -->
+  </body>
+</html>
