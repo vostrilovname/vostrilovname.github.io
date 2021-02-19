@@ -1,6 +1,6 @@
 ---
-label: template-post
-hide_body: false
+label: 'Шаблон: рассказ'
+hide_body: true
 fields:
 - type: text
   name: title
