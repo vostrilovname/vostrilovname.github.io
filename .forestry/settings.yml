@@ -12,15 +12,15 @@ sections:
 - type: document
   path: _data/gallery.json
   label: Галерея
-- type: heading
-  label: Контент
 - type: directory
   path: blog
   label: Рассказы
   create: documents
   match: "**/*"
   exclude: blog.json
-  new_doc_ext: html
+  new_doc_ext: md
+  templates:
+  - post
 upload_dir: assets/uploads
 public_path: "/assets/uploads"
 front_matter_path: ''
