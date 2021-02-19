@@ -1,16 +1,17 @@
 ---
-label: post
+label: template-post
 hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Заголовок
 - type: textarea
   name: description
-  label: description
+  label: Описание
 - type: datetime
   name: date
-  label: date
+  label: Дата
 - type: list
   name: tags
-  label: tags
+  label: Теги
+  hidden: false
