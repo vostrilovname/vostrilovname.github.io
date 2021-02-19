@@ -1,0 +1,20 @@
+---
+label: friends
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: eleventyNavigation
+  label: eleventyNavigation
+  fields:
+  - type: text
+    name: parent
+    label: parent
+  - type: text
+    name: key
+    label: key
+  - type: number
+    name: order
+    label: order
