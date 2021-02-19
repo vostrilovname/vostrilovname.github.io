@@ -4,12 +4,18 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: _data
-  label: Data
-  create: documents
+- type: heading
+  label: Файлы данных
+- type: document
+  path: _data/gallery.json
+  label: Галерея
   match: "**/*"
-  new_doc_ext: ".json"
+- type: document
+  path: _data/metadata.json
+  label: Метаданные
+  match: "**/*"
+- type: heading
+  label: Контент
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
