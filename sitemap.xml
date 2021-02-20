@@ -267,11 +267,6 @@
   </url>
   
   <url>
-    <loc>https://vostrilov.name/library/cites/</loc>
-    <lastmod>2021-02-20</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vostrilov.name/library/m-dubova/</loc>
     <lastmod>2021-02-20</lastmod>
   </url>
@@ -283,6 +278,11 @@
   
   <url>
     <loc>https://vostrilov.name/page-list/</loc>
+    <lastmod>2021-02-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vostrilov.name/special/cites/</loc>
     <lastmod>2021-02-20</lastmod>
   </url>
   
