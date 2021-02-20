@@ -188,7 +188,7 @@ li.my-active-class > a {
 }
 
 .home {
-  padding: 0.5rem 1rem 0 1em;
+  padding: 0.5rem 2rem 0 1em;
   float: none;
   margin: 1rem 0;
   text-align: right;
@@ -203,7 +203,6 @@ li.my-active-class > a {
 .home p {
   width: 100%;
   max-width: 100%;
-  padding-right: 1rem;
   margin-top: 0;
 }
 
@@ -214,7 +213,7 @@ li.my-active-class > a {
 }
 
 body > footer {
-  padding: 1rem 2rem;
+  padding: 1rem;
   border-top: 1px solid #acbbac;
 }
 
