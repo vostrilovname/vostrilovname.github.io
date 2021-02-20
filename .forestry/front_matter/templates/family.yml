@@ -4,10 +4,12 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Заголовок
+  config:
+    required: true
 - type: field_group
   name: eleventyNavigation
-  label: eleventyNavigation
+  label: Настройки меню
   fields:
   - type: text
     name: parent
@@ -18,12 +20,15 @@ fields:
     hidden: true
   - type: text
     name: key
-    label: key
+    label: Название для меню
     config:
       required: true
+    description: можно сделать таким же как заголовок
   - type: number
     name: order
-    label: order
+    label: Позиция в меню
     config:
       required: true
       min: 0
+    description: Чем больше тем ниже в меню
+    default: 1
