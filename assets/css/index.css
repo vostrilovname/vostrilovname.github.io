@@ -127,7 +127,7 @@ body {
 
 @media (max-width: 40rem) {
   body {
-    grid-template-rows: 50px auto auto 50px;
+    grid-template-rows: 50px min-content auto 50px;
     grid-template-columns: 1fr;
     grid-template-areas:
       "top"
@@ -188,7 +188,7 @@ li.my-active-class > a {
 }
 
 .home {
-  padding: 0.5rem 2rem 0 1em;
+  padding: 0.5rem 1rem 0;
   float: none;
   margin: 1rem 0;
   text-align: right;
@@ -276,6 +276,7 @@ label[for="nav-toggle"] ~ input {
     border-top: 1px solid #acbbac;
     border-bottom: 1px solid #acbbac;
     padding: 0.5rem 0;
+    margin-bottom: 1rem;4
   }
   label[for="nav-toggle"] ~ input:not(:checked) ~ ul {
     display: none;
