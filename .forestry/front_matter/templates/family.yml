@@ -1,5 +1,5 @@
 ---
-label: family
+label: 'Шаблон: история семьи'
 hide_body: false
 fields:
 - type: text
@@ -12,9 +12,18 @@ fields:
   - type: text
     name: parent
     label: parent
+    default: История семьи
+    config:
+      required: true
+    hidden: true
   - type: text
     name: key
     label: key
+    config:
+      required: true
   - type: number
     name: order
     label: order
+    config:
+      required: true
+      min: 0
