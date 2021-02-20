@@ -1,20 +1,34 @@
 ---
-label: library
+label: 'Шаблон: Библиотека'
 hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Заголовок
+  config:
+    required: true
 - type: field_group
   name: eleventyNavigation
-  label: eleventyNavigation
+  label: Настройки меню
   fields:
   - type: text
     name: parent
     label: parent
+    default: Библиотека
+    config:
+      required: true
+    hidden: true
   - type: text
     name: key
-    label: key
+    label: Название для меню
+    config:
+      required: true
+    description: можно сделать таким же как заголовок
   - type: number
     name: order
-    label: order
+    label: Позиция в меню
+    description: Чем больше тем ниже в меню
+    config:
+      required: true
+      min: 0
+    default: 1
