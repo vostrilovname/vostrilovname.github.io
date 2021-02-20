@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
+<h1>{{ title | safe }}</h1>
 {{ content | safe }}
 <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | dayjs }}</time>
 
