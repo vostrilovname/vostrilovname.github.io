@@ -6,6 +6,11 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
 const htmlEntities = require("html-entities");
+const dayjs = require("dayjs");
+require('dayjs/locale/ru');
+dayjs.locale('ru');
+const localizedFormat = require('dayjs/plugin/localizedFormat')
+dayjs.extend(localizedFormat)
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -42,6 +47,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("entitiesDecode", (str) => {
     return htmlEntities.decode(str, { level: "html5" });
+  });
+
+  eleventyConfig.addFilter("dayjs", (str, format) => {
+    return dayjs(str).format(format || 'LL');
   });
 
   eleventyConfig.addCollection("tagList", function (collection) {
