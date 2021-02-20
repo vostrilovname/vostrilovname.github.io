@@ -18,7 +18,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: blog.json
-  new_doc_ext: ".html"
+  new_doc_ext: ''
   templates:
   - post
 - type: directory
@@ -27,7 +27,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: friends.json
-  new_doc_ext: ".md"
+  new_doc_ext: ''
   templates:
   - friends
 upload_dir: assets/uploads
