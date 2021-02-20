@@ -16,7 +16,7 @@ fields:
     schema:
       format: markdown
     min: 
-    max: 155
+    max: 
   label: Краткое описание
   description: Не более 155 символов
 - type: field_group
