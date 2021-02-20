@@ -1,11 +1,37 @@
 ---
-new_page_extension: md
+new_page_extension: html
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
-sections: 
-upload_dir: uploads
-public_path: "/uploads"
+sections:
+- type: document
+  path: _data/metadata.json
+  label: Метаданные
+- type: document
+  path: _data/gallery.json
+  label: Галерея
+- type: heading
+  label: Тексты
+- type: directory
+  path: blog
+  label: Рассказы
+  create: documents
+  match: "**/*"
+  exclude: blog.json
+  new_doc_ext: ".html"
+  templates:
+  - post
+- type: directory
+  path: friends
+  label: Друзья семьи
+  create: documents
+  match: "**/*"
+  exclude: friends.json
+  new_doc_ext: ".md"
+  templates:
+  - friends
+upload_dir: assets/uploads
+public_path: "/assets/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"

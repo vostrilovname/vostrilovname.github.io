@@ -1,0 +1,17 @@
+---
+label: 'Шаблон: рассказ'
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Заголовок
+- type: textarea
+  name: description
+  label: Описание
+- type: datetime
+  name: date
+  label: Дата
+- type: list
+  name: tags
+  label: Теги
+  hidden: false
