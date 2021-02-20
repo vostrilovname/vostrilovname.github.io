@@ -73,6 +73,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("CNAME");
+  eleventyConfig.addPassthroughCopy("google74daa787fecce0e8.html");
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({

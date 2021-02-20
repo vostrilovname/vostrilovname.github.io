@@ -9,6 +9,11 @@
         про&nbsp;Востриловых, которые будут жить после&nbsp;меня</i>
 </p>
 
+<label for="nav-toggle">
+    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><path d='M462,163.5H50v-65h412V163.5z M462,223.5H50v65h412V223.5z M462,348.5H50v65h412V348.5z'/></svg>"> Меню
+</label>
+<input id="nav-toggle" type="checkbox" style="display: none">
+
 {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
 {% set navPages = collections.all | eleventyNavigation %}
 {% macro renderNavListItem(entry) -%}
