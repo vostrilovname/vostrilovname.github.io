@@ -1,11 +1,29 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ (title or metadata.title) | entitiesDecode }}</title>
-<meta name="description" content="{{ (description or metadata.description) | entitiesDecode }}">
+{% if layout == "layouts/group-page.njk" %}
+
+    {% set childPages = collections.all | eleventyNavigation(eleventyNavigation.key) %}
+    {% set comma = joiner(";") %}
+    {% set desc = "Раздел " + title + " содержит материалы:" %}
+    {% for page in childPages | head(3) %}
+        {% set desc = desc + comma() + " " + page.title %}
+    {% endfor%}
+    {% if childPages.length > 3 %}
+        {% set desc = desc + " и другие."%}
+    {% else %}
+        {% set desc = desc + "."%}
+    {% endif %}
+
+    <meta name="description" content="{{ desc | entitiesDecode }}">
+    <meta property="og:description" content="{{ desc | entitiesDecode }}"/>
+{%else%}
+    <meta name="description" content="{{ (description or metadata.description) | entitiesDecode }}">
+    <meta property="og:description" content="{{ (description or metadata.description) | entitiesDecode }}"/>
+{% endif %}
 <meta property="og:url" content="{{ page.url }}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{ (title or metadata.title) | entitiesDecode }}"/>
-<meta property="og:description" content="{{ (description or metadata.description) | entitiesDecode }}"/>
 <meta property="og:image" content="{{ metadata.site_uri + '/assets/img/site_image.png' | url }}"/>
 <meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}">
