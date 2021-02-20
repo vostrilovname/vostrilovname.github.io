@@ -7,6 +7,18 @@ fields:
   label: Заголовок
   config:
     required: true
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 
+    max: 155
+  label: Краткое описание
+  description: Не более 155 символов
 - type: field_group
   name: eleventyNavigation
   label: Настройки меню
