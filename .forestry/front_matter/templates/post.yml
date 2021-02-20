@@ -8,6 +8,9 @@ fields:
 - type: textarea
   name: description
   label: Описание
+  description: Не более 155 символов
+  config:
+    max: 
 - type: datetime
   name: date
   label: Дата
