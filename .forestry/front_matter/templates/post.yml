@@ -5,6 +5,8 @@ fields:
 - type: text
   name: title
   label: Заголовок
+  config:
+    required: true
 - type: textarea
   name: description
   label: Описание
@@ -14,6 +16,9 @@ fields:
 - type: datetime
   name: date
   label: Дата
+  config:
+    required: true
+  default: now
 - type: list
   name: tags
   label: Теги
