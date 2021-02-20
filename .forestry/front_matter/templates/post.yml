@@ -5,6 +5,8 @@ fields:
 - type: text
   name: title
   label: Заголовок
+  config:
+    required: true
 - type: textarea
   name: description
   label: Описание
