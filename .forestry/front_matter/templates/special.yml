@@ -1,20 +1,31 @@
 ---
-label: special
+label: 'Шаблон: Разное'
 hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Заголовок
+  config:
+    required: true
 - type: textarea
   name: description
-  label: description
+  label: Краткое описание
+  description: Не более 155 символов
 - type: field_group
   name: eleventyNavigation
-  label: eleventyNavigation
+  label: Настройки меню
   fields:
   - type: text
     name: key
-    label: key
+    label: Название для меню
+    description: можно сделать таким же как заголовок
+    config:
+      required: true
   - type: number
     name: order
-    label: order
+    label: Позиция в меню
+    description: Чем больше тем ниже в меню
+    config:
+      min: 0
+      required: true
+    default: 1
