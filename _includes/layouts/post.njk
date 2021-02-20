@@ -3,21 +3,21 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
-
 {{ content | safe }}
+<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | dayjs }}</time>
 
 <hr>
 <ul>
   {%- set nextPost = collections.stories | getNextCollectionItem(page) %}
   {%- if nextPost %}
     <li>Следующий:
-      <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>
+      <a href="{{ nextPost.url | url }}">{{ nextPost.data.title | safe }}</a>
     </li>
   {% endif %}
   {%- set previousPost = collections.stories | getPreviousCollectionItem(page) %}
   {%- if previousPost %}
     <li>Предыдущий:
-      <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>
+      <a href="{{ previousPost.url | url }}">{{ previousPost.data.title | safe }}</a>
     </li>
   {% endif %}
 </ul>
