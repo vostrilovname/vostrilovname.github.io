@@ -9,7 +9,7 @@ fields:
     required: true
 - type: field_group
   name: eleventyNavigation
-  label: eleventyNavigation
+  label: Настройки меню
   fields:
   - type: text
     name: parent
