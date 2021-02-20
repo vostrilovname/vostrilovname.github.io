@@ -276,7 +276,7 @@ label[for="nav-toggle"] ~ input {
     border-top: 1px solid #acbbac;
     border-bottom: 1px solid #acbbac;
     padding: 0.5rem 0;
-    margin-bottom: 1rem;4
+    margin-bottom: 1rem;
   }
   label[for="nav-toggle"] ~ input:not(:checked) ~ ul {
     display: none;
