@@ -1,5 +1,5 @@
 ---
-label: 'Шаблон: Друзья семьи'
+label: 'Шаблон: История семьи'
 hide_body: false
 fields:
 - type: text
@@ -14,7 +14,9 @@ fields:
   - type: text
     name: parent
     label: parent
-    default: Друзья семьи
+    default: История семьи
+    config:
+      required: true
     hidden: true
   - type: text
     name: key
@@ -24,9 +26,9 @@ fields:
     description: можно сделать таким же как заголовок
   - type: number
     name: order
-    label: Порядок в меню
+    label: Позиция в меню
     config:
       required: true
       min: 0
-    default: 1
     description: Чем больше тем ниже в меню
+    default: 1

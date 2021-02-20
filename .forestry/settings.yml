@@ -18,7 +18,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: blog.json
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - post
 - type: directory
@@ -27,17 +27,34 @@ sections:
   create: documents
   match: "**/*"
   exclude: friends.json
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - friends
+- type: directory
+  path: family
+  label: История семьи
+  create: documents
+  match: "**/*"
+  exclude: family.json
+  templates:
+  - family
+- type: directory
+  path: library
+  label: Библиотека
+  create: documents
+  match: "**/*"
+  exclude: library.json
+  templates:
+  - library
 upload_dir: assets/uploads
 public_path: "/assets/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
+  preview_output_directory: _site
   install_dependencies_command: npm install
   preview_docker_image: forestryio/node:12
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: npm run develop
+  instant_preview_command: npm run start
