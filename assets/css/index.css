@@ -98,7 +98,7 @@ table th {
 }
 a[href].post-tag,
 a[href].post-tag:visited {
-  color: (--white);
+  color: var(--white);
 }
 
 /* cocteau */
