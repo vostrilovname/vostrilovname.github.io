@@ -260,7 +260,6 @@ h6 {
 main p img {
   max-width: 88%;
   margin: 0.5rem auto;
-  border: 1px solid #aaa;
   box-shadow: 0 0 0 7px var(--white), 0px 0 0 8px var(--olive-light);
   display: block;
 }

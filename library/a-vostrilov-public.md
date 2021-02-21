@@ -83,7 +83,7 @@ description: Лучшие журналистские работы А. В. Вос
 
 ## Из&nbsp;года в&nbsp;год всё так&nbsp;же люди
 
-![Из года в год все так же люди](/assets/uploads/a-vostrilov-public/13_From_year_to_year_still_people.jpg)
+![Из года в год всё так же люди](/assets/uploads/a-vostrilov-public/13_From_year_to_year_still_people.jpg)
 
 [Читать статью «Из&nbsp;года в&nbsp;год всё так&nbsp;же люди»](https://drive.google.com/file/d/1x-v_bdcExXX1n_E9g7bD4sF618y_VibE/view?usp=sharing)
 
@@ -141,11 +141,11 @@ description: Лучшие журналистские работы А. В. Вос
 
 [Читать статью «"Когда, поэт, твой стих не&nbsp;брешет...?"»](https://drive.google.com/file/d/1GFgoRkAgyNh0ZI-1h8E02fjA3cxX6uTu/view?usp=sharing)
 
-## Положите меня поперек неправды и лени...
+## Положите меня поперёк неправды и лени...
 
-![Положите меня поперек неправды и лени...](/assets/uploads/a-vostrilov-public/23_Put_me_across_the_unrighteousness_and_laziness....jpg)
+![Положите меня поперёк неправды и лени...](/assets/uploads/a-vostrilov-public/23_Put_me_across_the_unrighteousness_and_laziness....jpg)
 
-[Читать статью «Положите меня поперек неправды и лени...»](https://drive.google.com/file/d/1AhRMXQNmRVaFTGb9a1IPH_D1pq-u1qT7/view?usp=sharing)
+[Читать статью «Положите меня поперёк неправды и лени...»](https://drive.google.com/file/d/1AhRMXQNmRVaFTGb9a1IPH_D1pq-u1qT7/view?usp=sharing)
 
 ## А.&nbsp;М.&nbsp;Горький в&nbsp;моей жизни
 

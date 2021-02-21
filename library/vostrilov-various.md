@@ -35,17 +35,17 @@ description: В этом разделе размещены интересные 
 
 [Читать статью «Чудо талант»](https://drive.google.com/file/d/11aMRcGqMsoe-3y3PY4VpABQhNTrdKkqJ/view?usp=sharing)
 
-## Все начинается с семьи
+## Всё начинается с семьи
 
-![Все начинается с семьи](/assets/uploads/vostrilov-various/5_Vse_nachinaetsya_s_semi.jpg)
+![Всё начинается с семьи](/assets/uploads/vostrilov-various/5_Vse_nachinaetsya_s_semi.jpg)
 
-[Читать статью «Все начинается с семьи»](https://drive.google.com/file/d/1cuwz8aG5-lSCc5_bamP5A2O7zxy6zUJO/view?usp=sharing)
+[Читать статью «Всё начинается с семьи»](https://drive.google.com/file/d/1cuwz8aG5-lSCc5_bamP5A2O7zxy6zUJO/view?usp=sharing)
 
-## Таких танцев еще не было
+## Таких танцев ещё не было
 
-![Таких танцев еще не было](/assets/uploads/vostrilov-various/6_Takih_tancev_ese_ne_bilo.jpg)
+![Таких танцев ещё не было](/assets/uploads/vostrilov-various/6_Takih_tancev_ese_ne_bilo.jpg)
 
-[Читать статью «Таких танцев еще не было»](https://drive.google.com/file/d/1lbwFfmkstY_1hr1QhfAvD0Yq50Dz5H5_/view?usp=sharing)
+[Читать статью «Таких танцев ещё не было»](https://drive.google.com/file/d/1lbwFfmkstY_1hr1QhfAvD0Yq50Dz5H5_/view?usp=sharing)
 
 ## Да. Так диктует вдохновение
 
