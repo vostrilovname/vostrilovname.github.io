@@ -1,12 +1,11 @@
 :root {
-  --red: #c5004a;
-  --darkred: #7f0036;
-  --lightgray: #e0e0e0;
-  --gray: #c0c0c0;
+  --accent: #bd4f37;
   --darkgray: #333;
-  --navy: #17050f;
-  --blue: #082840;
   --white: #fff;
+  --olive: #3c4f48;
+  --olive-active: #465c54;
+  --olive-light: #acbbac;
+  --olive-black: #27332e;
 }
 * {
   box-sizing: border-box;
@@ -31,12 +30,6 @@ p,
 .tmpl-post li {
   line-height: 1.45;
 }
-/* a[href] {
-  color: var(--blue);
-}
-a[href]:visited {
-  color: var(--navy);
-} */
 main {
   padding: 1rem;
 }
@@ -94,19 +87,18 @@ table th {
 /* Tags */
 .post-tag {
   display: inline-block;
-  vertical-align: text-top;
   text-transform: uppercase;
   font-size: 0.625em; /* 10px /16 */
   padding: 2px 4px;
   margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--red);
+  background-color: var(--accent);
   color: var(--white);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
 }
 a[href].post-tag,
 a[href].post-tag:visited {
-  color: #fff;
+  color: (--white);
 }
 
 /* cocteau */
@@ -214,7 +206,7 @@ li.my-active-class > a {
 
 body > footer {
   padding: 1rem;
-  border-top: 1px solid #acbbac;
+  border-top: 1px solid var(--olive-light);
 }
 
 @media (min-width: 120rem) {
@@ -231,7 +223,7 @@ img.me {
   width: 100%;
   max-width: 10em;
   border-radius: 50%;
-  box-shadow: #fff 0px 0px 4px, #888 2px 5px 25px;
+  box-shadow: #fff 0px 0px 4px, var(--olive) 2px 5px 25px;
 }
 
 div.nanogallery-container {
@@ -240,12 +232,12 @@ div.nanogallery-container {
 }
 
 a {
-  color: #3c4f48;
+  color: var(--olive);
 }
 a:focus,
 a:visited,
 a:hover {
-  color: #465c54;
+  color: var(--olive-active);
 }
 
 h1,
@@ -254,7 +246,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #27332e;
+  color: var(--olive-black);
 }
 
 label[for="nav-toggle"] {
@@ -273,8 +265,8 @@ label[for="nav-toggle"] ~ input {
   label[for="nav-toggle"] {
     display: flex;
     align-items: center;
-    border-top: 1px solid #acbbac;
-    border-bottom: 1px solid #acbbac;
+    border-top: 1px solid var(--olive-light);
+    border-bottom: 1px solid var(--olive-light);
     padding: 0.5rem 0;
     margin-bottom: 1rem;
   }
