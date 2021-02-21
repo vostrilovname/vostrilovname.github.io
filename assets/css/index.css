@@ -83,6 +83,10 @@ table th {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
 }
+.postlist-item-description {
+  margin-left: 1.25rem;
+  font-size: 0.85em;
+}
 
 /* Tags */
 .post-tag {
@@ -238,6 +242,10 @@ a:focus,
 a:visited,
 a:hover {
   color: var(--olive-active);
+}
+
+time {
+  white-space: nowrap;
 }
 
 h1,
