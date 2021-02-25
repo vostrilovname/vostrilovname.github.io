@@ -3,6 +3,7 @@ const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
+const blogTools = require("eleventy-plugin-blog-tools");
 const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
 const htmlEntities = require("html-entities");
@@ -16,6 +17,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(blogTools);
 
   eleventyConfig.setDataDeepMerge(true);
 
