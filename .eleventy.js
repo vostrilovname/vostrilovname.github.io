@@ -4,14 +4,15 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const blogTools = require("eleventy-plugin-blog-tools");
+const blogToolsExcerpt = require("eleventy-plugin-blog-tools/src/excerpt");
 const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
 const htmlEntities = require("html-entities");
 const dayjs = require("dayjs");
-require('dayjs/locale/ru');
-dayjs.locale('ru');
-const localizedFormat = require('dayjs/plugin/localizedFormat')
-dayjs.extend(localizedFormat)
+require("dayjs/locale/ru");
+dayjs.locale("ru");
+const localizedFormat = require("dayjs/plugin/localizedFormat");
+dayjs.extend(localizedFormat);
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -22,6 +23,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+
+  eleventyConfig.addFilter("ancestryDescription", (collection, page) => {
+    const str = blogToolsExcerpt(collection.find((x) => x.url == page.url))
+      .replace(/<\/?[^>]+(>|$)/g, "")
+      .replace(/[\r\n]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+    return htmlEntities.decode(str, { level: "html5" });
+  });
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
@@ -52,7 +62,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("dayjs", (str, format) => {
-    return dayjs(str).format(format || 'LL');
+    return dayjs(str).format(format || "LL");
   });
 
   eleventyConfig.addCollection("tagList", function (collection) {

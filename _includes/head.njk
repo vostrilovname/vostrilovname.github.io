@@ -17,6 +17,10 @@
 
     <meta name="description" content="{{ desc | entitiesDecode }}">
     <meta property="og:description" content="{{ desc | entitiesDecode }}"/>
+{% elif layout == "layouts/ancestry.njk" %}
+    {% set desc = collections.all | ancestryDescription(page) %}
+    <meta name="description" content="{{ desc }}">
+    <meta property="og:description" content="{{ desc }}"/>
 {%else%}
     <meta name="description" content="{{ (description or metadata.description) | entitiesDecode }}">
     <meta property="og:description" content="{{ (description or metadata.description) | entitiesDecode }}"/>
