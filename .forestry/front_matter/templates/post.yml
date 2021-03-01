@@ -23,5 +23,3 @@ fields:
   name: tags
   label: Теги
   hidden: false
-pages:
-- blog/хочу-стать-депутатом.app

@@ -18,7 +18,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: blog.json
-  new_doc_ext: app
+  new_doc_ext: md
   templates:
   - post
 - type: directory
