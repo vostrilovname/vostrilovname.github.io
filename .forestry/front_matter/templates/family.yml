@@ -44,3 +44,10 @@ fields:
       min: 0
     description: Чем больше тем ниже в меню
     default: 1
+- name: sa
+  type: file
+  config:
+    maxSize: 64
+  default: "/assets/uploads/0-02-05-e6d3051695d7186b104ba815ba508e88c5716a21981929d9afd7b8c8b3fd47b3_5e6875a3-1.jpg"
+  label: sa
+  hidden: false
