@@ -8,6 +8,7 @@ const blogToolsExcerpt = require("eleventy-plugin-blog-tools/src/excerpt");
 const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
 const htmlEntities = require("html-entities");
+const embedEverything = require("eleventy-plugin-embed-everything");
 const dayjs = require("dayjs");
 require("dayjs/locale/ru");
 dayjs.locale("ru");
@@ -19,6 +20,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(blogTools);
+  eleventyConfig.addPlugin(embedEverything, {
+    use: ["youtube"],
+  });
 
   eleventyConfig.setDataDeepMerge(true);
 
