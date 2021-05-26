@@ -9,6 +9,7 @@ const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
 const htmlEntities = require("html-entities");
 const embedEverything = require("eleventy-plugin-embed-everything");
+const mdImageFigures = require("markdown-it-image-figures");
 const dayjs = require("dayjs");
 require("dayjs/locale/ru");
 dayjs.locale("ru");
@@ -111,6 +112,9 @@ module.exports = function (eleventyConfig) {
     breaks: true,
     linkify: true,
   });
+  markdownLibrary.use(mdImageFigures, {
+    figcaption: true
+  }); // make images as html figure
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides
