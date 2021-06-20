@@ -1,5 +1,5 @@
 ---
-title: Моя семья (Очерк
+title: Моя семья (Очерк)
 eleventyNavigation:
   parent: История семьи
   key: Моя семья (Очерк)
