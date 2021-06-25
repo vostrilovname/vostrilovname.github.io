@@ -10,6 +10,8 @@ sections:
 - type: document
   path: src/_data/gallery.json
   label: Галерея
+- type: heading
+  label: Тексты
 - type: directory
   path: src/blog
   label: Рассказы
