@@ -36,8 +36,8 @@
     "html-minifier": "^4.0.0",
     "luxon": "^1.27.0",
     "markdown-it": "^12.0.6",
-    "markdown-it-image-figures": "^1.0.1",
-    "npm-check-updates": "^11.6.0",
+    "markdown-it-image-figures": "^1.2.0",
+    "npm-check-updates": "^11.7.1",
     "rimraf": "^3.0.2"
   }
 }
