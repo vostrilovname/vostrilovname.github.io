@@ -5,15 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: _data/metadata.json
+  path: src/_data/metadata.json
   label: Метаданные
 - type: document
-  path: _data/gallery.json
+  path: src/_data/gallery.json
   label: Галерея
 - type: heading
   label: Тексты
 - type: directory
-  path: blog
+  path: src/blog
   label: Рассказы
   create: documents
   match: "**/*"
@@ -22,7 +22,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: friends
+  path: src/friends
   label: Друзья семьи
   create: documents
   match: "**/*"
@@ -31,7 +31,7 @@ sections:
   templates:
   - friends
 - type: directory
-  path: family
+  path: src/family
   label: История семьи
   create: documents
   match: "**/*"
@@ -39,7 +39,7 @@ sections:
   templates:
   - family
 - type: directory
-  path: library
+  path: src/library
   label: Библиотека
   create: documents
   match: "**/*"
@@ -47,7 +47,7 @@ sections:
   templates:
   - library
 - type: directory
-  path: special
+  path: src/special
   label: Разное
   create: documents
   match: "**/*"

@@ -23,6 +23,3 @@ fields:
   name: tags
   label: Теги
   hidden: false
-pages:
-- blog/to-be-chosen.md
-- blog/специалисты.md
