@@ -341,3 +341,8 @@ figure figcaption {
   font-size: 0.85em;
   padding: 1rem 0;
 }
+
+/* youtube */
+.eleventy-plugin-youtube-embed {
+  margin-bottom: 1rem;
+}
