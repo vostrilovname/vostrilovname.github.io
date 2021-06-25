@@ -10,8 +10,6 @@ sections:
 - type: document
   path: src/_data/gallery.json
   label: Галерея
-- type: heading
-  label: Тексты
 - type: directory
   path: src/blog
   label: Рассказы
@@ -55,7 +53,7 @@ sections:
   templates:
   - special
 - type: heading
-  label: Видео
+  label: Прочее
 - type: directory
   path: src/cinema
   label: Кинозал
