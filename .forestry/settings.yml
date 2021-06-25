@@ -54,6 +54,16 @@ sections:
   exclude: special.json
   templates:
   - special
+- type: heading
+  label: Видео
+- type: directory
+  path: src/cinema
+  label: Кинозал
+  create: documents
+  match: "**/*"
+  exclude: "*.json"
+  templates:
+  - special
 upload_dir: assets/uploads
 public_path: "/assets/uploads"
 front_matter_path: ''
