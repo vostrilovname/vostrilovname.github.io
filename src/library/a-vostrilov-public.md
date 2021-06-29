@@ -13,7 +13,7 @@ description: Лучшие журналистские работы А. В. Вос
 
 Среди прочего, отец был участником уборки урожая на целине в 1957 году. Вот ссылка на его повесть «Земля целинная».</p>
 
-[https://disk.yandex.ru/d/aPSTUn-mI9HDRg]()
+[https://disk.yandex.ru/d/aPSTUn-mI9HDRg](https://disk.yandex.ru/d/aPSTUn-mI9HDRg "https://disk.yandex.ru/d/aPSTUn-mI9HDRg")
 
 ## Рецепты старого травника
 
