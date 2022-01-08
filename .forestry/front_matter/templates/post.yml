@@ -23,3 +23,5 @@ fields:
   name: tags
   label: Теги
   hidden: false
+pages:
+- src/blog/переходный-возраст.md
