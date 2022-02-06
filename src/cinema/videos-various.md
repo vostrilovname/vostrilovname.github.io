@@ -18,4 +18,6 @@ https://www.youtube.com/watch?v=0Bx6tj15cfQ
 
 https://www.youtube.com/watch?v=eaMHYc3-cfQ
 
-[https://www.youtube.com/watch?v=_VM0eGiwE0s](https://www.youtube.com/watch?v=_VM0eGiwE0s "https://www.youtube.com/watch?v=_VM0eGiwE0s")
+[https://www.youtube.com/watch?v=_VM0eGiwE0s](https://www.youtube.com/watch?v=_VM0eGiwE0s "https://www.youtube.com/watch?v=_VM0eGiwE0s")  
+  
+[https://www.m24.ru/shows1/65/325287](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")
