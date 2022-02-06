@@ -6,9 +6,9 @@ eleventyNavigation:
   order: 2
 
 ---
-<header>  
+  
 <h2>[<p>Сюжет с участием <nobr>А. C. Вострилова</nobr> на федеральном канале (г. Москва).</p>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")</h2>  
-</header>  
+  
   
   
   
