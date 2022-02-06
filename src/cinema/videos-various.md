@@ -6,7 +6,8 @@ eleventyNavigation:
   order: 2
 
 ---
-[<p>Сюжет с участием <nobr>А. C. Вострилова</nobr> на федеральном канале (г. Москва).</p>](https://www.m24.ru/shows1/65/325287 "Сюжет")
+[<p>Сюжет с участием <nobr>А. C. Вострилова</nobr> на федеральном канале (г. Москва).</p>](https://www.m24.ru/shows1/65/325287 "Сюжет")  
+[https://www.youtube.com/watch?v=jrJr6fbd5bk](https://www.youtube.com/watch?v=jrJr6fbd5bk "https://www.youtube.com/watch?v=jrJr6fbd5bk")
 
 [https://www.youtube.com/watch?v=_VM0eGiwE0s](https://www.youtube.com/watch?v=_VM0eGiwE0s "https://www.youtube.com/watch?v=_VM0eGiwE0s")
 
