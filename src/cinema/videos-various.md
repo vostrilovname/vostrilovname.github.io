@@ -6,7 +6,8 @@ eleventyNavigation:
   order: 2
 
 ---
-[https://www.m24.ru/shows1/65/325287](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")
+  
+[<p>Сюжет с&nbsp;участием <nobr>А. В. Вострилова</nobr> на&nbsp;федеральном канале (г.&nbsp;Москва).</p>](https://www.m24.ru/shows1/65/325287 "Сюжет")
 
 [https://www.youtube.com/watch?v=_VM0eGiwE0s](https://www.youtube.com/watch?v=_VM0eGiwE0s "https://www.youtube.com/watch?v=_VM0eGiwE0s")
 
