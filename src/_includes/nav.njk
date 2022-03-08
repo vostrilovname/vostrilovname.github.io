@@ -17,7 +17,7 @@
 {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
 {% set navPages = collections.all | eleventyNavigation %}
 {% macro renderNavListItem(entry) -%}
-    <li {% if entry.url == page.url %} class="my-active-class" {% endif %}>
+    <li {% if entry.url | urlMatch(page.url)  %} class="my-active-class" {% endif %}>
         <a href="{{ entry.url | url }}">{{ entry.title | safe }}</a>
         {%- if entry.children.length -%}
             <ul>

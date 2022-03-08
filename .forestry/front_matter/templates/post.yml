@@ -24,6 +24,6 @@ fields:
   label: Теги
   hidden: false
 pages:
-- src/blog/истории-нашего-дома.md
-- src/blog/переходный-возраст.md
-- src/blog/ружьё.md
+- src/stories/istorii-nashego-doma.md
+- src/stories/perehodnjy-vozrast.md
+- src/stories/ruzhjo.md

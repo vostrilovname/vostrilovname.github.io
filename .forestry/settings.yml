@@ -13,11 +13,11 @@ sections:
 - type: heading
   label: Тексты
 - type: directory
-  path: src/blog
+  path: src/stories
   label: Рассказы
   create: documents
   match: "**/*"
-  exclude: blog.json
+  exclude: stories.json
   new_doc_ext: md
   templates:
   - post

@@ -70,6 +70,10 @@ module.exports = function (eleventyConfig) {
     return dayjs(str).format(format || "LL");
   });
 
+  eleventyConfig.addFilter("urlMatch", function (url, pageUrl) {
+    return pageUrl === url || (url.length > 1 && pageUrl.substr(1).startsWith(url.substr(1)));
+  });
+
   eleventyConfig.addCollection("tagList", function (collection) {
     let tagSet = new Set();
     collection.getAll().forEach(function (item) {
@@ -82,6 +86,7 @@ module.exports = function (eleventyConfig) {
             case "all":
             case "nav":
             case "post":
+            case "ancestry":
             case "stories":
               return false;
           }
