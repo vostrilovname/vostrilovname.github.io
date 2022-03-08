@@ -10,7 +10,7 @@ export function getConfig(customSnapshotIdentifier, customSnapshotsDir) {
 }
 
 describe("site", () => {
-  const sitemapper = new Sitemapper();
+  // const sitemapper = new Sitemapper();
 
   beforeAll(async () => {
     await page.goto(URL, { waitUntil: "domcontentloaded" });
