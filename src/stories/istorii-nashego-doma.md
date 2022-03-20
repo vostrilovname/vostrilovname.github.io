@@ -10,7 +10,7 @@ tags:
 - Утоли моя печали
 
 ---
-<strong><p>История первая<br /><strong>
+<strong><p>История первая<br /></strong>
 
 <strong> «Утоли моя печали»<br /></strong>
 
