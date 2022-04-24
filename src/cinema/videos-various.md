@@ -7,7 +7,7 @@ eleventyNavigation:
 
 ---
 [<h3><p>&laquo;Человек жив, пока его помнят&raquo; Вечер памяти <nobr>А. В. Вострилова</nobr></p></h3>](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")  
-[https://www.youtube.com/watch?v=hWIGyjKMCJw](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw&t=1s")  
+[https://www.youtube.com/watch?v=hWIGyjKMCJw](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")  
 [https://youtu.be/hWIGyjKMCJw](https://youtu.be/hWIGyjKMCJw "https://youtu.be/hWIGyjKMCJw")
 
 [https://www.youtube.com/watch?v=_VM0eGiwE0s](https://www.youtube.com/watch?v=_VM0eGiwE0s "https://www.youtube.com/watch?v=_VM0eGiwE0s")
