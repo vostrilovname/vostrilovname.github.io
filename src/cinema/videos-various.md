@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 2
 
 ---
+<h3><p> </p></h3>  
+[https://www.m24.ru/shows1/65/325287](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")  
 [<h3><p>«Человек жив, пока его помнят». Вечер памяти <nobr>А. В. Вострилова</nobr></p></h3>](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")
 
 [https://www.youtube.com/watch?v=hWIGyjKMCJw](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")
