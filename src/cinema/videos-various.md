@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 2
 
 ---
-[<h3><p>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")&laquo;Человек жив, пока его помнят&raquo; Вечер памяти <nobr>А. В. Вострилова</nobr>[</p></h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")  
+[<h3><p>&laquo;Человек жив, пока его помнят&raquo; Вечер памяти <nobr>А. В. Вострилова</nobr></p></h3>](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")  
 [https://www.youtube.com/watch?v=hWIGyjKMCJw](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")  
 [<h3><p>Сюжет с участием <nobr>А. C. Вострилова</nobr> на федеральном канале (г. Москва).</p></h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")
 
