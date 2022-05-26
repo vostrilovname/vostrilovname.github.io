@@ -10,6 +10,7 @@ eleventyNavigation:
   
   
 <h3><p>Прогулка трёх медвежат недалеко от&nbsp;деревни Воронино Борского района.</p></h3>[https://vk.com/wall-20651456_59243](https://vk.com/wall-20651456_59243 "https://vk.com/wall-20651456_59243")  
+[https://vk.com/video-20651456_456247972](https://vk.com/video-20651456_456247972 "https://vk.com/video-20651456_456247972")  
 <br>  
 </br>  
 [<h3><p>Репортаж с участием <nobr>А. C. Вострилова</nobr> (г. Москва)</p></h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")  
