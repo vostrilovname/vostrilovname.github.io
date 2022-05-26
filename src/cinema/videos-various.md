@@ -6,7 +6,14 @@ eleventyNavigation:
   order: 2
 
 ---
-[<h3><p>Репортаж с&nbsp;участием <nobr>А. C. Вострилова</nobr> (г.&nbsp;Москва)</p></h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")  
+  
+  
+  
+<h3><p>Прогулка трёх медвежат недалеко от&nbsp;деревни Воронино Борского района.</p></h3>  
+<iframe src="[https://vk.com/video_ext.php?oid=-20651456&id=456247972&hash=b725b9b58645b268&hd=1](https://vk.com/video_ext.php?oid=-20651456&id=456247972&hash=b725b9b58645b268&hd=1 "https://vk.com/video_ext.php?oid=-20651456&id=456247972&hash=b725b9b58645b268&hd=1")" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>  
+<br>  
+</br>  
+[<h3><p>Репортаж с участием <nobr>А. C. Вострилова</nobr> (г. Москва)</p></h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")  
 [https://www.m24.ru/shows1/65/325287](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")  
 <br>  
 </br>  
