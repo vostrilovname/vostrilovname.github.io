@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 <p>Видео материалы продюсерского центра &laquo;Деловое сотрудничество&raquo;</p>
 
-https://www.youtube.com/watch?v=wrw2OUMftuQ
+[https://www.youtube.com/watch?v=wrw2OUMftuQ](https://www.youtube.com/watch?v=wrw2OUMftuQ "https://www.youtube.com/watch?v=wrw2OUMftuQ")
 
   
 https://www.youtube.com/watch?v=t-8JOwWpAPQ
