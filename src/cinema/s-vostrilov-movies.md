@@ -9,7 +9,9 @@ eleventyNavigation:
 <p>Видео материалы продюсерского центра &laquo;Деловое сотрудничество&raquo;</p>[https://www.youtube.com/user/OOODS2013/videos](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")  
 <p>Фабрика готового бизнеса 2019&ndash;2020</p>
 
-[https://www.youtube.com/watch?v=wrw2OUMftuQ](https://www.youtube.com/watch?v=wrw2OUMftuQ "https://www.youtube.com/watch?v=wrw2OUMftuQ")
+[https://www.youtube.com/watch?v=wrw2OUMftuQ](https://www.youtube.com/watch?v=wrw2OUMftuQ "https://www.youtube.com/watch?v=wrw2OUMftuQ")  
+<p>Эссенские контакты</p>  
+[https://www.youtube.com/watch?v=O0qA79LxE5I](https://www.youtube.com/watch?v=O0qA79LxE5I "https://www.youtube.com/watch?v=O0qA79LxE5I")
 
   
 https://www.youtube.com/watch?v=t-8JOwWpAPQ
