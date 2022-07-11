@@ -6,22 +6,18 @@ eleventyNavigation:
   order: 1
 
 ---
-<p>Видео материалы продюсерского центра &laquo;Деловое сотрудничество&raquo;</p>
+<p>Видео материалы продюсерского центра «Деловое сотрудничество»</p>
 
-[https://www.youtube.com/user/OOODS2013/videos](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")
+[<h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")[https://www.youtube.com/user/OOODS2013/videos](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")[</h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")
 
-  
-<p>Фабрика Готового Бизнеса 2019&ndash;2020</p>
+<p>Фабрика Готового Бизнеса 2019–2020</p>
 
 [https://www.youtube.com/watch?v=wrw2OUMftuQ](https://www.youtube.com/watch?v=wrw2OUMftuQ "https://www.youtube.com/watch?v=wrw2OUMftuQ")
 
-  
 <p>Эссенские контакты</p>
 
-  
 [https://www.youtube.com/watch?v=O0qA79LxE5I](https://www.youtube.com/watch?v=O0qA79LxE5I "https://www.youtube.com/watch?v=O0qA79LxE5I")
 
-  
 https://www.youtube.com/watch?v=t-8JOwWpAPQ
 
 https://www.youtube.com/watch?v=TXX6CveYMEY
