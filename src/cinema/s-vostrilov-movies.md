@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 1
 
 ---
-<p>Видео материалы продюсерского центра &laquo;Деловое сотрудничество&raquo;</p>
+<p>Видео материалы продюсерского центра &laquo;Деловое сотрудничество&raquo;</p>[https://www.youtube.com/user/OOODS2013/videos](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")
 
 [https://www.youtube.com/watch?v=wrw2OUMftuQ](https://www.youtube.com/watch?v=wrw2OUMftuQ "https://www.youtube.com/watch?v=wrw2OUMftuQ")
 
