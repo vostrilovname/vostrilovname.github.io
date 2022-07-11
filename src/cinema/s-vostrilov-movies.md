@@ -6,9 +6,9 @@ eleventyNavigation:
   order: 1
 
 ---
-<p>Видео материалы продюсерского центра «Деловое сотрудничество»</p>
+[<h3><p>Видео материалы продюсерского центра «Деловое сотрудничество»</p>](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")
 
-[<h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")[https://www.youtube.com/user/OOODS2013/videos](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")[</h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")
+[https://www.youtube.com/user/OOODS2013/videos</h3>](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")
 
 <p>Фабрика Готового Бизнеса 2019–2020</p>
 
