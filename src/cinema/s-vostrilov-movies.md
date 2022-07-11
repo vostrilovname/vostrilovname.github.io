@@ -6,7 +6,6 @@ eleventyNavigation:
   order: 1
 
 ---
-
 <p>Видео материалы продюсерского центра &laquo;Деловое сотрудничество&raquo;</p>
 
 https://www.youtube.com/watch?v=wrw2OUMftuQ  
