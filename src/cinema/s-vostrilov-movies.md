@@ -16,9 +16,7 @@ eleventyNavigation:
 [https://www.youtube.com/watch?v=wrw2OUMftuQ](https://www.youtube.com/watch?v=wrw2OUMftuQ "https://www.youtube.com/watch?v=wrw2OUMftuQ")
 
   
-<p>Эссенские контакты</p>
-
-  
+<p>Эссенские контакты</p>  
 [https://www.youtube.com/watch?v=O0qA79LxE5I](https://www.youtube.com/watch?v=O0qA79LxE5I "https://www.youtube.com/watch?v=O0qA79LxE5I")
 
   
