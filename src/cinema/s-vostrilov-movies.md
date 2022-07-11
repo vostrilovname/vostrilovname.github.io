@@ -11,7 +11,7 @@ eleventyNavigation:
 [https://www.youtube.com/user/OOODS2013/videos](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")
 
   
-<p>Фабрика готового бизнеса 2019&ndash;2020</p>
+<p>Фабрика Готового Бизнеса 2019&ndash;2020</p>
 
 [https://www.youtube.com/watch?v=wrw2OUMftuQ](https://www.youtube.com/watch?v=wrw2OUMftuQ "https://www.youtube.com/watch?v=wrw2OUMftuQ")
 
