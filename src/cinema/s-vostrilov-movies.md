@@ -6,7 +6,8 @@ eleventyNavigation:
   order: 1
 
 ---
-<h3><p>Ролики для МАУ «Управление по туризму г. Нижнего Новгорода, июль 2022».</p></h3>  
+<h3><p>Ролики для МАУ «Управление по туризму г. Нижнего Новгорода, июль 2022».</p></h3>
+
 [https://www.youtube.com/watch?v=msIajmlMyY4](https://www.youtube.com/watch?v=msIajmlMyY4 "https://www.youtube.com/watch?v=msIajmlMyY4")
 
 [<h3><p>Видео материалы продюсерского центра «Деловое сотрудничество»</p></h3>](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")
