@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 2
 
 ---
+[https://vk.com/video-20651456_456248816](https://vk.com/video-20651456_456248816 "https://vk.com/video-20651456_456248816")
+
 [<h3><p>Прогулка трёх медвежат недалеко от деревни Воронино Борского района.</p></h3> https://vk.com/wall-20651456_59243](https://vk.com/wall-20651456_59243 "https://vk.com/wall-20651456_59243")  
 <br>  
 </br>  
