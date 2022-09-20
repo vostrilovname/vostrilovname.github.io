@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: Друзья семьи
   order: 20
   key: А.&nbsp;А.&nbsp;Одинцов
-title: Александр Александрович Одинцов
+title: Друг семьи&nbsp;&mdash; А.&nbsp;А.&nbsp;Одинцов
 description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 ---
