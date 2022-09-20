@@ -6,8 +6,8 @@ eleventyNavigation:
   order: 2
 
 ---
-<h3><p>Любимые места города Бор (Бор ТВ)</p></h3>  
-[https://vk.com/video-20651456_456248816](https://vk.com/video-20651456_456248816 "https://vk.com/video-20651456_456248816")
+[<h3><p>Любимые места города Бор (Бор ТВ)</p></h3>  
+https://vk.com/video-20651456_456248816](https://vk.com/video-20651456_456248816 "https://vk.com/video-20651456_456248816")
 
 <br>  
 </br>
