@@ -71,3 +71,9 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 Сказал и&nbsp;полетел дальше. Вот друзья самарские, дальше бывшие студенты, дети из&nbsp;летнего лагеря. Все стоят внизу на&nbsp;земле и&nbsp;машут ему рукой&hellip;<br />
 
 А&nbsp;вот и&nbsp;мама. Боже мой! Только сейчас он&nbsp;понял, что все это время рядом с&nbsp;ним летит его мама&hellip; Боль ушла&hellip; Дальше они все время летели вместе&hellip;</p>
+
+<p>Спектакль "Начало"</p>
+
+<p>Мелодия души</p>
+
+[https://www.youtube.com/watch?v=0BBiIl04vxo](https://www.youtube.com/watch?v=0BBiIl04vxo "https://www.youtube.com/watch?v=0BBiIl04vxo")
