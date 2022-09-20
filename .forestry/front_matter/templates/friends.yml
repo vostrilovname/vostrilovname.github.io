@@ -41,3 +41,5 @@ fields:
       min: 0
     default: 1
     description: Чем больше тем ниже в меню
+pages:
+- src/friends/александр-александрович-одинцов.app
