@@ -27,7 +27,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: friends.json
-  new_doc_ext: app
+  new_doc_ext: ''
   templates:
   - friends
 - type: directory
@@ -54,8 +54,6 @@ sections:
   exclude: special.json
   templates:
   - special
-- type: heading
-  label: Прочее
 - type: directory
   path: src/cinema
   label: Кинозал
