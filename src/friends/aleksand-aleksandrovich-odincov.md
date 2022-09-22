@@ -71,4 +71,4 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 Телевизионная программа"Мелодия души"
 
-[https://www.youtube.com/watch?v=0BBiIl04vxo](https://www.youtube.com/watch?v=0BBiIl04vxo "https://www.youtube.com/watch?v=0BBiIl04vxo")
+[https://www.youtube.com/watch?v=R8nlqhC3hoA](https://www.youtube.com/watch?v=R8nlqhC3hoA "https://www.youtube.com/watch?v=R8nlqhC3hoA")
