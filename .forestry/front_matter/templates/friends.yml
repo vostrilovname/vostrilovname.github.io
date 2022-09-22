@@ -42,4 +42,4 @@ fields:
     default: 1
     description: Чем больше тем ниже в меню
 pages:
-- src/friends/александр-александрович-одинцов.app
+- src/friends/aleksand-aleksandrovich-odincov.md
