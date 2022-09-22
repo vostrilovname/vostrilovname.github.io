@@ -27,7 +27,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: friends.json
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - friends
 - type: directory
