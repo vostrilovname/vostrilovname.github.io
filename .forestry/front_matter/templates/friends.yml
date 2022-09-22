@@ -43,4 +43,3 @@ fields:
     description: Чем больше тем ниже в меню
 pages:
 - src/friends/aleksand-aleksandrovich-odincov.md
-- src/friends/test.app
