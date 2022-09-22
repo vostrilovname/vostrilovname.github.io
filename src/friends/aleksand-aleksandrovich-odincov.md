@@ -7,9 +7,6 @@ title: Друг семьи&nbsp;&mdash; А.&nbsp;А.&nbsp;Одинцов
 description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 ---
-![Александр Одинцов](/assets/uploads/Саныч.jpg "Александр Одинцов")
-
-![/assets/uploads/Саныч.jpg](/assets/uploads/Саныч.jpg)
 
 ![Александр Одинцов](/assets/uploads/3.jpg "Александр Одинцов")
 
