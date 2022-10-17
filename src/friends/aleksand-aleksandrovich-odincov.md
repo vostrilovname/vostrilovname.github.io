@@ -74,3 +74,43 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 ### Телевизионная программа "Мелодия души"
 
 [https://www.youtube.com/watch?v=R8nlqhC3hoA](https://www.youtube.com/watch?v=R8nlqhC3hoA "https://www.youtube.com/watch?v=R8nlqhC3hoA")
+
+### Простые истины весны
+
+#### 2002
+
+[https://youtu.be/_ogbjfhsf-w](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/mcVTSQfuOfo](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/9gH3skUuS0c](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/BTme0igtMvk](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/KqbetIQ_nL0](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/OKg4JOPt9Hg](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/_PcOnagvMy4](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/wivRUHfB-iA](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/zZpzv_WYt3g](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/sKv6_kHCD6s](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/IVD0w4d3Khs](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+[https://youtu.be/pOqQj3DSpYU](https://youtu.be/_ogbjfhsf-w "https://youtu.be/_ogbjfhsf-w")
+
+#### 2003
+
+[https://youtu.be/BFY-IsrrE40](https://youtu.be/BFY-IsrrE40 "https://youtu.be/BFY-IsrrE40")
+
+[https://youtu.be/hxu_kNHbrw8](https://youtu.be/BFY-IsrrE40 "https://youtu.be/BFY-IsrrE40")
+
+[https://youtu.be/xn2tKxRCha8](https://youtu.be/BFY-IsrrE40 "https://youtu.be/BFY-IsrrE40")
+
+[https://youtu.be/WZNagt0F2UQ](https://youtu.be/BFY-IsrrE40 "https://youtu.be/BFY-IsrrE40")
+
+[https://youtu.be/PI8dmOCE-e8](https://youtu.be/BFY-IsrrE40 "https://youtu.be/BFY-IsrrE40")
