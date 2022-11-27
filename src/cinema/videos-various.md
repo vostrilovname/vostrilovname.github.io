@@ -17,6 +17,11 @@ eleventyNavigation:
 [<h3><p>Репортаж с участием <nobr>А. C. Вострилова</nobr> (г. Москва)</p></h3>](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")  
 [https://www.m24.ru/shows1/65/325287](https://www.m24.ru/shows1/65/325287 "https://www.m24.ru/shows1/65/325287")  
 <br>  
+</br>
+
+<h3><p>10 мая 2021 года меня приятно удивила родная сестра Татьяна. Она смонтировала вот такой сюжет к  юбилею</p</h3>  [https://disk.yandex.ru/i/Q2geY3vxUl4eJg](https://disk.yandex.ru/i/Q2geY3vxUl4eJg "https://disk.yandex.ru/i/Q2geY3vxUl4eJg") 
+
+<br>  
 </br>  
 [<h3><p>«Человек жив, пока его помнят». Вечер памяти <nobr>А. В. Вострилова</nobr></p></h3>](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")
 
