@@ -1,6 +1,6 @@
 ---
 title: Проекты
-description: ''
+description: Проекты
 eleventyNavigation:
   key: Проекты
   order: 20
