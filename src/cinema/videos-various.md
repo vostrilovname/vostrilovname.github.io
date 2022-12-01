@@ -27,12 +27,12 @@ eleventyNavigation:
 [https://disk.yandex.ru/i/Q2geY3vxUl4eJg](https://disk.yandex.ru/i/Q2geY3vxUl4eJg "https://disk.yandex.ru/i/Q2geY3vxUl4eJg")
 
 
-## «Человек жив, пока его помнят»
+### «Человек жив, пока его помнят»
 Вечер памяти <nobr>А. В. Вострилова</nobr>
 
 [https://www.youtube.com/watch?v=hWIGyjKMCJw](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")
 
-## Другие видео
+### Другие видео
 
 [https://www.youtube.com/watch?v=_VM0eGiwE0s](https://www.youtube.com/watch?v=_VM0eGiwE0s "https://www.youtube.com/watch?v=_VM0eGiwE0s")
 
