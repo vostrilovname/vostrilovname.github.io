@@ -15,9 +15,7 @@ description: ''
 
 ### Литературные произведения:
 
-#### Тексты
-
-[https://disk.yandex.ru/i/MaXBlUqJ9y4A8w](https://disk.yandex.ru/i/MaXBlUqJ9y4A8w "https://disk.yandex.ru/i/MaXBlUqJ9y4A8w")
+#### [Тексты](https://disk.yandex.ru/i/MaXBlUqJ9y4A8w "https://disk.yandex.ru/i/MaXBlUqJ9y4A8w")
 
 #### Теннис до и после 45 
 
