@@ -17,7 +17,7 @@ description: ''
 
 ### Литературные произведения:
 
-#### [Тексты]()
+#### [Тексты](https://disk.yandex.ru/i/MaXBlUqJ9y4A8w "https://disk.yandex.ru/i/MaXBlUqJ9y4A8w")
 
 [https://disk.yandex.ru/i/MaXBlUqJ9y4A8w](https://disk.yandex.ru/i/MaXBlUqJ9y4A8w "https://disk.yandex.ru/i/MaXBlUqJ9y4A8w")
 
