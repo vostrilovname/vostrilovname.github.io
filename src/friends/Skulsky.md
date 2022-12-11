@@ -15,6 +15,18 @@ description: ''
 
 ### Литературные произведения:
 
+#### Тексты
+
+[https://disk.yandex.ru/i/MaXBlUqJ9y4A8w](https://disk.yandex.ru/i/MaXBlUqJ9y4A8w "https://disk.yandex.ru/i/MaXBlUqJ9y4A8w")
+
+#### Теннис до и после 45 
+
+[https://disk.yandex.ru/i/BXET3oPTHDcHHQ](https://disk.yandex.ru/i/BXET3oPTHDcHHQ "https://disk.yandex.ru/i/BXET3oPTHDcHHQ")
+
+#### Интеллигентные люди
+
+[https://disk.yandex.ru/i/1abSB6BmxClmNg](https://disk.yandex.ru/i/1abSB6BmxClmNg "https://disk.yandex.ru/i/1abSB6BmxClmNg")
+
 ### Фильм "поход по Оке"
 
 [https://disk.yandex.ru/i/Ram8AKtnlFGHRQ](https://disk.yandex.ru/i/Ram8AKtnlFGHRQ "https://disk.yandex.ru/i/Ram8AKtnlFGHRQ")
