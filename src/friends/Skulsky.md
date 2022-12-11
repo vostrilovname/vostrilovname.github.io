@@ -17,6 +17,8 @@ description: ''
 
 #### [Тексты]()
 
+[https://disk.yandex.ru/i/MaXBlUqJ9y4A8w](https://disk.yandex.ru/i/MaXBlUqJ9y4A8w "https://disk.yandex.ru/i/MaXBlUqJ9y4A8w")
+
 #### [Теннис до и после 45](https://disk.yandex.ru/i/BXET3oPTHDcHHQ "https://disk.yandex.ru/i/BXET3oPTHDcHHQ")
 
 [https://disk.yandex.ru/i/BXET3oPTHDcHHQ](https://disk.yandex.ru/i/BXET3oPTHDcHHQ "https://disk.yandex.ru/i/BXET3oPTHDcHHQ")
