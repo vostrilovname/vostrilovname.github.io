@@ -7,7 +7,7 @@ title: Друг семьи Востриловых&nbsp;&mdash; А.&nbsp;М.&nbsp
 description: ''
 
 ---
-<p>У&nbsp;моего учителя, партнёра и&nbsp;друга Алексея Михайловича Скульского юбилей. Он&nbsp;человек уникальный, очень талантливый, при этом добросердечный и&nbsp;отзывчивый. Ещё он&nbsp;тот, кто во&nbsp;многом определил мою жизнь. Я&nbsp;помню каждый Ваш урок, Алексей Михайлович! Живите долго, берегите себя! Размещаю в&nbsp;этом разделе некоторые литературные произведения и&nbsp;фильмы Алексея Михайловича Скульского.</p>
+<p>У моего учителя, партнёра и друга Алексея Михайловича Скульского юбилей. Он человек уникальный, очень талантливый, при этом добросердечный и отзывчивый. Ещё он тот, кто во многом определил мою жизнь. Я помню каждый Ваш урок, Алексей Михайлович! Живите долго, берегите себя! Размещаю в этом разделе некоторые литературные произведения и фильмы Алексея Михайловича Скульского.</p>
 
 ![](/assets/uploads/2022/photo_2022-12-10_12-28-04.jpg)![](/assets/uploads/2022/photo_2022-12-10_12-28-01.jpg)
 
@@ -15,13 +15,13 @@ description: ''
 
 ### Литературные произведения:
 
-#### [Тексты](https://disk.yandex.ru/i/MaXBlUqJ9y4A8w "https://disk.yandex.ru/i/MaXBlUqJ9y4A8w")
+#### [Тексты]()
 
-#### Теннис до и после 45 
+#### [Теннис до и после 45](https://disk.yandex.ru/i/BXET3oPTHDcHHQ "https://disk.yandex.ru/i/BXET3oPTHDcHHQ")
 
 [https://disk.yandex.ru/i/BXET3oPTHDcHHQ](https://disk.yandex.ru/i/BXET3oPTHDcHHQ "https://disk.yandex.ru/i/BXET3oPTHDcHHQ")
 
-#### Интеллигентные люди
+#### [Интеллигентные люди](https://disk.yandex.ru/i/1abSB6BmxClmNg "https://disk.yandex.ru/i/1abSB6BmxClmNg")
 
 [https://disk.yandex.ru/i/1abSB6BmxClmNg](https://disk.yandex.ru/i/1abSB6BmxClmNg "https://disk.yandex.ru/i/1abSB6BmxClmNg")
 
