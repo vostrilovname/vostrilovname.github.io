@@ -12,3 +12,11 @@ description: ''
 ![](/assets/uploads/2022/photo_2022-12-10_12-28-04.jpg)![](/assets/uploads/2022/photo_2022-12-10_12-28-01.jpg)
 
 ![](/assets/uploads/2022/photo_2022-12-10_12-27-38.jpg)
+
+### Фильм "поход по Оке"
+
+[https://disk.yandex.ru/i/Ram8AKtnlFGHRQ](https://disk.yandex.ru/i/Ram8AKtnlFGHRQ "https://disk.yandex.ru/i/Ram8AKtnlFGHRQ")
+
+[https://disk.yandex.ru/i/z2n0Ruis8gufGQ](https://disk.yandex.ru/i/z2n0Ruis8gufGQ "https://disk.yandex.ru/i/z2n0Ruis8gufGQ")
+
+[https://cloud.mail.ru/public/iZLG/1Md8q3fDT](https://cloud.mail.ru/public/iZLG/1Md8q3fDT "https://cloud.mail.ru/public/iZLG/1Md8q3fDT")
