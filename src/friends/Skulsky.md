@@ -33,9 +33,13 @@ description: ''
 
 #### Часть 1. 
 
+[https://youtu.be/-P1W_fbhY40](https://youtu.be/-P1W_fbhY40 "https://youtu.be/-P1W_fbhY40")
+
 Скачать: [https://disk.yandex.ru/i/Ram8AKtnlFGHRQ](https://disk.yandex.ru/i/Ram8AKtnlFGHRQ "https://disk.yandex.ru/i/Ram8AKtnlFGHRQ")
 
 #### Часть 2.
+
+[https://youtu.be/Uq6aoDCoBVw](https://youtu.be/Uq6aoDCoBVw "https://youtu.be/Uq6aoDCoBVw")
 
 Скачать: [https://disk.yandex.ru/i/z2n0Ruis8gufGQ](https://disk.yandex.ru/i/z2n0Ruis8gufGQ "https://disk.yandex.ru/i/z2n0Ruis8gufGQ")
 
