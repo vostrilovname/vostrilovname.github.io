@@ -41,4 +41,6 @@ description: ''
 
 #### Часть 3. "Рыбалка"
 
+[https://youtu.be/a7kLdt830Wc](https://youtu.be/a7kLdt830Wc "https://youtu.be/a7kLdt830Wc")
+
 Скачать: [https://cloud.mail.ru/public/iZLG/1Md8q3fDT](https://cloud.mail.ru/public/iZLG/1Md8q3fDT "https://cloud.mail.ru/public/iZLG/1Md8q3fDT")
