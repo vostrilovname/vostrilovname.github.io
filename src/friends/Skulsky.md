@@ -39,6 +39,6 @@ description: ''
 
 Скачать: [https://disk.yandex.ru/i/z2n0Ruis8gufGQ](https://disk.yandex.ru/i/z2n0Ruis8gufGQ "https://disk.yandex.ru/i/z2n0Ruis8gufGQ")
 
-#### Часть 3
+#### Часть 3 "Рыбалка"
 
 Скачать: [https://cloud.mail.ru/public/iZLG/1Md8q3fDT](https://cloud.mail.ru/public/iZLG/1Md8q3fDT "https://cloud.mail.ru/public/iZLG/1Md8q3fDT")
