@@ -73,6 +73,8 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 ### Полная видеозапись вечера памяти
 
+[https://rutube.ru/video/private/e3b44934ae297977f7a5c4e88e60fa20/?p=j8PiHfxXqpmv_16LLqEd3w](https://rutube.ru/video/private/e3b44934ae297977f7a5c4e88e60fa20/?p=j8PiHfxXqpmv_16LLqEd3w "https://rutube.ru/video/private/e3b44934ae297977f7a5c4e88e60fa20/?p=j8PiHfxXqpmv_16LLqEd3w")
+
 ### Телевизионный сюжет о вечере памяти
 
 [https://vk.com/wall-20651456_71843](https://vk.com/wall-20651456_71843 "https://vk.com/wall-20651456_71843")
