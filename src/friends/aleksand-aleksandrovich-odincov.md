@@ -79,6 +79,10 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 [https://vk.com/wall-20651456_71843](https://vk.com/wall-20651456_71843 "https://vk.com/wall-20651456_71843")
 
+### "Мой расстроенный рояль"
+
+[https://vk.com/video64018919_456239053?access_key=5bc4a6b8f626eda476](https://vk.com/video64018919_456239053?access_key=5bc4a6b8f626eda476 "https://vk.com/video64018919_456239053?access_key=5bc4a6b8f626eda476")
+
 ### Спектакль "Начало"
 
 [https://youtu.be/TWmPXRLlGPM](https://youtu.be/TWmPXRLlGPM "https://youtu.be/TWmPXRLlGPM")
