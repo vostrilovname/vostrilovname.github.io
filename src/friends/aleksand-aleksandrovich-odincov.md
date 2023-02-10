@@ -67,6 +67,10 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 А вот и мама. Боже мой! Только сейчас он понял, что все это время рядом с ним летит его мама… Боль ушла… Дальше они все время летели вместе…
 
+### А. Одинцов «Пьесы»
+
+[https://disk.yandex.ru/i/za9fMAZjByivKw](https://disk.yandex.ru/i/za9fMAZjByivKw "https://disk.yandex.ru/i/za9fMAZjByivKw")
+
 ### Вечер памяти
 
 ![](/assets/uploads/2022/qc5ahgxus7a.jpg)
