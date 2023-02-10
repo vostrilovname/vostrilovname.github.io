@@ -31,7 +31,7 @@ description: ''
 
 ### Фильм "поход по Оке"
 
-#### Часть 1. 
+#### Часть 1.
 
 [https://youtu.be/-P1W_fbhY40](https://youtu.be/-P1W_fbhY40 "https://youtu.be/-P1W_fbhY40")
 
