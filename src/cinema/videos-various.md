@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 2
 
 ---
+### Ушла из жизни любимая соседка тетя Тамара Колесова. Сколько себя помню - она всегда была рядом. Светлая память.
+
+[https://disk.yandex.ru/i/CHwwEN13BNdMBg](https://disk.yandex.ru/i/CHwwEN13BNdMBg "https://disk.yandex.ru/i/CHwwEN13BNdMBg")
+
 ### Любимые места города Бор (Бор ТВ)
 
 [https://vk.com/video-20651456_456248816](https://vk.com/video-20651456_456248816 "https://vk.com/video-20651456_456248816")
