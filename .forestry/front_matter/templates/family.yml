@@ -44,3 +44,5 @@ fields:
       min: 0
     description: Чем больше тем ниже в меню
     default: 1
+pages:
+- src/family/востриловы-генеалогическое-дерево.md
