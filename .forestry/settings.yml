@@ -1,70 +1,70 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
-webhook_url: 
+admin_path: ""
+webhook_url:
 sections:
-- type: document
-  path: src/_data/metadata.json
-  label: Метаданные
-- type: document
-  path: src/_data/gallery.json
-  label: Галерея
-- type: heading
-  label: Тексты
-- type: directory
-  path: src/stories
-  label: Рассказы
-  create: documents
-  match: "**/*"
-  exclude: stories.json
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
-  path: src/friends
-  label: Друзья семьи
-  create: documents
-  match: "**/*"
-  exclude: friends.json
-  new_doc_ext: app
-  templates:
-  - friends
-- type: directory
-  path: src/family
-  label: История семьи
-  create: documents
-  match: "**/*"
-  exclude: family.json
-  templates:
-  - family
-- type: directory
-  path: src/library
-  label: Библиотека
-  create: documents
-  match: "**/*"
-  exclude: library.json
-  templates:
-  - library
-- type: directory
-  path: src/special
-  label: Разное
-  create: documents
-  match: "**/*"
-  exclude: special.json
-  templates:
-  - special
-- type: directory
-  path: src/cinema
-  label: Кинозал
-  create: documents
-  match: "**/*"
-  exclude: "*.json"
-  templates:
-  - special
+  - type: document
+    path: src/_data/metadata.json
+    label: Метаданные
+  - type: document
+    path: src/_data/gallery.json
+    label: Галерея
+  - type: heading
+    label: Тексты
+  - type: directory
+    path: src/stories
+    label: Рассказы
+    create: documents
+    match: "**/*"
+    exclude: stories.json
+    new_doc_ext: md
+    templates:
+      - post
+  - type: directory
+    path: src/friends
+    label: Друзья семьи
+    create: documents
+    match: "**/*"
+    exclude: friends.json
+    new_doc_ext: app
+    templates:
+      - friends
+  - type: directory
+    path: src/family
+    label: История семьи
+    create: documents
+    match: "**/*"
+    exclude: family.json
+    templates:
+      - family
+  - type: directory
+    path: src/library
+    label: Библиотека
+    create: documents
+    match: "**/*"
+    exclude: library.json
+    templates:
+      - library
+  - type: directory
+    path: src/special
+    label: Разное
+    create: documents
+    match: "**/*"
+    exclude: special.json
+    templates:
+      - special
+  - type: directory
+    path: src/cinema
+    label: Кинозал
+    create: documents
+    match: "**/*"
+    exclude: "*.json"
+    templates:
+      - special
 upload_dir: src/assets/uploads
 public_path: "/assets/uploads"
-front_matter_path: ''
+front_matter_path: ""
 use_front_matter_path: false
 file_template: ":year:/:filename:"
 build:

@@ -5,10 +5,10 @@
   "scripts": {
     "upgrade": "ncu -u && rimraf node_modules && npm install && npm audit fix",
     "test": "jest --config=./e2e/jest.config.js --verbose false",
-    "build": "eleventy",
+    "build": "npm run tinacms build && eleventy",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
-    "start": "eleventy --serve",
+    "start": "npx tinacms dev -c \"eleventy --serve\"",
     "debug": "DEBUG=* eleventy"
   },
   "repository": {
@@ -48,5 +48,9 @@
     "puppeteer": "^20.1.1",
     "rimraf": "^5.0.0",
     "sitemapper": "^3.2.6"
+  },
+  "dependencies": {
+    "@tinacms/cli": "^1.5.11",
+    "tinacms": "^1.5.4"
   }
 }
