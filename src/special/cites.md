@@ -62,3 +62,19 @@ eleventyNavigation:
 Сюжет: День службы занятости</p>
 
 [https://vk.com/video-20651456_456250584](https://vk.com/video-20651456_456250584 "https://vk.com/video-20651456_456250584")
+
+<br>
+
+### <p>&laquo;Служба занятости&raquo;<br>
+Ярмарка вакансий для несовершеннолетних.<br>
+</p>
+
+[https://vk.com/video-20651456_456250934](https://vk.com/video-20651456_456250934 "https://vk.com/video-20651456_456250934")
+
+<br>
+
+### <p>&laquo;Служба занятости&raquo;<br>
+Интервью о работе ЦЗН.<br>
+</p>
+
+[https://vk.com/video-20651456_456250964?list=9f766e7e67159cfdfd](https://vk.com/video-20651456_456250964?list=9f766e7e67159cfdfd "https://vk.com/video-20651456_456250964?list=9f766e7e67159cfdfd")
