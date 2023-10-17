@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 2
 
 ---
-### Борский филиал ГКУ НО "НЦЗН"
+### Ярмарка вакансий, 12 октября 2023 года
 
 [https://vk.com/wall-219744987_320](https://vk.com/wall-219744987_320 "https://vk.com/wall-219744987_320")
 
