@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 2
 
 ---
+### Борский филиал ГКУ НО "НЦЗН"
+
+[https://vk.com/wall-219744987_320](https://vk.com/wall-219744987_320 "https://vk.com/wall-219744987_320")
+
 ### Ушла из жизни любимая соседка тетя Тамара Колесова. Сколько себя помню - она всегда была рядом. Светлая память.
 
 [https://disk.yandex.ru/i/CHwwEN13BNdMBg](https://disk.yandex.ru/i/CHwwEN13BNdMBg "https://disk.yandex.ru/i/CHwwEN13BNdMBg")
