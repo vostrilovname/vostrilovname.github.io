@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 2
 
 ---
+
+### Трудоустройство особых детей, 7 декабря 2023г.
+
+[https://vk.com/wall-20651456_95962](https://vk.com/wall-20651456_95962 "https://vk.com/wall-20651456_95962")
+
 ### Ярмарка вакансий, 12 октября 2023 года
 
 [https://vk.com/wall-219744987_320](https://vk.com/wall-219744987_320 "https://vk.com/wall-219744987_320")
