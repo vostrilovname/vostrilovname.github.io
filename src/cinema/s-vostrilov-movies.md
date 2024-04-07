@@ -9,7 +9,7 @@ eleventyNavigation:
 
 <h3><p>Пресс-конференция Всероссийской ярмарки трудоустройства.</p></h3>
 
-[https://vk.com/video-61126185_456249428](https://vk.com/video-61126185_456249428 "https://vk.com/video-61126185_456249428")
+[<iframe src="https://vk.com/video_ext.php?oid=-61126185&id=456249428&hd=2" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>](https://vk.com/video-61126185_456249428 "https://vk.com/video-61126185_456249428")
 
 <h3><p>Ролики для МАУ «Управление по туризму г. Нижнего Новгорода, июль 2022».</p></h3>
 
