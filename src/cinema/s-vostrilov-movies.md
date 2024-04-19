@@ -7,6 +7,10 @@ eleventyNavigation:
 
 ---
 
+<h3><p>Работа России.</p></h3>
+
+[https://youtu.be/m27-bdLVGiU](https://youtu.be/m27-bdLVGiU "https://youtu.be/m27-bdLVGiU")
+
 <h3><p>Пресс-конференция Всероссийской ярмарки трудоустройства.</p></h3>
 
 [<iframe src="https://vk.com/video_ext.php?oid=-61126185&id=456249428&hd=2" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>](https://vk.com/video-61126185_456249428 "https://vk.com/video-61126185_456249428")
