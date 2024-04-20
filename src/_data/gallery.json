@@ -1,12 +1,12 @@
 {
   "images": [
     {
-      "src": "2.png",
-      "title": "Дерево 2"
-    },
-    {
       "src": "1.png",
       "title": "Дерево 1"
+    },
+    {
+      "src": "2.png",
+      "title": "Дерево 2"
     },
     {
       "src": "img042.jpg",
