@@ -7,6 +7,10 @@ eleventyNavigation:
 
 ---
 
+### Семейный ролик, посвященный дню памяти!
+
+[<iframe src="https://vk.com/video_ext.php?oid=614183935&id=456239199&hd=2&hash=1fc51fefe53a3f5e" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>](https://vk.com/video614183935_456239199 "https://vk.com/video614183935_456239199")
+
 ### Ролик - ярмарка
 
 [https://www.youtube.com/watch?v=nQyz1VehAdE&ab_channel=%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F](https://www.youtube.com/watch?v=nQyz1VehAdE&ab_channel=%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F "https://www.youtube.com/watch?v=nQyz1VehAdE&ab_channel=%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F")
