@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ### Семейный ролик, посвященный дню памяти!
 
-[<iframe src="https://vk.com/video_ext.php?oid=614183935&id=456239199&hd=2&hash=1fc51fefe53a3f5e" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>](https://vk.com/video614183935_456239199 "https://vk.com/video614183935_456239199")
+[https://youtu.be/j9VvbL-2zX8](https://youtu.be/j9VvbL-2zX8 "https://youtu.be/j9VvbL-2zX8")
 
 ### Ролик - ярмарка
 
@@ -25,7 +25,7 @@ eleventyNavigation:
 
 ### Ушла из жизни любимая соседка тетя Тамара Колесова. Сколько себя помню - она всегда была рядом. Светлая память.
 
-[https://disk.yandex.ru/i/CHwwEN13BNdMBg](https://disk.yandex.ru/i/CHwwEN13BNdMBg "https://disk.yandex.ru/i/CHwwEN13BNdMBg")
+[https://youtu.be/tlyLB3u51Og](https://youtu.be/tlyLB3u51Og "https://youtu.be/tlyLB3u51Og")
 
 ### Любимые места города Бор (Бор ТВ)
 
