@@ -7,6 +7,12 @@ eleventyNavigation:
 
 ---
 
+### Ролики для кадрового центра «Работа России».
+
+[https://disk.yandex.ru/i/OaipKTGQQyK86A](https://disk.yandex.ru/i/OaipKTGQQyK86A "https://disk.yandex.ru/i/OaipKTGQQyK86A")
+[https://disk.yandex.ru/i/0KbDVOIgeq9mlA](https://disk.yandex.ru/i/0KbDVOIgeq9mlA "https://disk.yandex.ru/i/0KbDVOIgeq9mlA")
+
+
 ### Семейный ролик, посвященный дню памяти!
 
 [https://youtu.be/j9VvbL-2zX8](https://youtu.be/j9VvbL-2zX8 "https://youtu.be/j9VvbL-2zX8")
