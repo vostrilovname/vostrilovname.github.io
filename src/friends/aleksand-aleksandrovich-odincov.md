@@ -97,7 +97,7 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 ### Спектакль "Начало"
 
-[https://youtu.be/TWmPXRLlGPM](https://youtu.be/TWmPXRLlGPM "https://youtu.be/TWmPXRLlGPM")
+[https://vk.com/video-228175292_456239026](https://vk.com/video-228175292_456239026 "https://vk.com/video-228175292_456239026")
 
 ### Телевизионная программа "Мелодия души"
 
