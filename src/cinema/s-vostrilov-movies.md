@@ -30,12 +30,18 @@ eleventyNavigation:
 
 [https://www.youtube.com/watch?v=wrw2OUMftuQ](https://www.youtube.com/watch?v=wrw2OUMftuQ "https://www.youtube.com/watch?v=wrw2OUMftuQ")
 
-<h3><p>Эссенские контакты</p></h3>
+### Эссенские контакты
 
-[https://www.youtube.com/watch?v=O0qA79LxE5I](https://www.youtube.com/watch?v=O0qA79LxE5I "https://www.youtube.com/watch?v=O0qA79LxE5I")
+[https://vk.com/video-228175292_456239040](https://vk.com/video-228175292_456239040 "https://vk.com/video-228175292_456239040")
 
-https://www.youtube.com/watch?v=t-8JOwWpAPQ
+### Листва родительских берёз
 
-https://www.youtube.com/watch?v=TXX6CveYMEY
+[https://vk.com/video-228175292_456239041](https://vk.com/video-228175292_456239041 "https://vk.com/video-228175292_456239041")
 
-https://www.youtube.com/watch?v=0BBiIl04vxo
+### Центр Одаренных Детей
+
+[https://vk.com/video-228175292_456239043](https://vk.com/video-228175292_456239043 "https://vk.com/video-228175292_456239043")
+
+### К звёздам 2018г.
+
+[https://vk.com/video-228175292_456239044](https://vk.com/video-228175292_456239044 "https://vk.com/video-228175292_456239044")
