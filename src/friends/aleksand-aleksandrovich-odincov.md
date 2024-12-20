@@ -99,10 +99,6 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 [https://vk.com/video-228175292_456239026](https://vk.com/video-228175292_456239026 "https://vk.com/video-228175292_456239026")
 
-### Телевизионная программа "Мелодия души"
-
-[https://www.youtube.com/watch?v=R8nlqhC3hoA](https://www.youtube.com/watch?v=R8nlqhC3hoA "https://www.youtube.com/watch?v=R8nlqhC3hoA")
-
 ### Простые истины весны
 
 #### 2002

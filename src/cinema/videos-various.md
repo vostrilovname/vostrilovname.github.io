@@ -6,9 +6,9 @@ eleventyNavigation:
   order: 2
 
 ---
-### Меня зовут Ватомский
+### Интервью Вострилова C.А. "30 лет борскому телевидению"
 
-[<iframe src="https://vk.com/video_ext.php?oid=-228175292&id=456239039&hd=2&hash=b965d6ebac607855&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>](https://vk.com/video-228175292_456239039 "https://vk.com/video-228175292_456239039")
+[https://vk.com/video-228175292_456239037](https://vk.com/video-228175292_456239037 "https://vk.com/video-228175292_456239037")
 
 ### Ролики для кадрового центра «Работа России».
 
@@ -56,24 +56,34 @@ eleventyNavigation:
 
 [https://disk.yandex.ru/i/Q2geY3vxUl4eJg](https://disk.yandex.ru/i/Q2geY3vxUl4eJg "https://disk.yandex.ru/i/Q2geY3vxUl4eJg")
 
-### «Человек жив, пока его помнят»
+<!--- ### «Человек жив, пока его помнят»
 
 Вечер памяти <nobr>А. В. Вострилова</nobr>
 
-[https://www.youtube.com/watch?v=hWIGyjKMCJw](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")
+[https://www.youtube.com/watch?v=hWIGyjKMCJw](https://www.youtube.com/watch?v=hWIGyjKMCJw "https://www.youtube.com/watch?v=hWIGyjKMCJw")-->
 
 ### Другие видео
 
-[https://www.youtube.com/watch?v=_VM0eGiwE0s](https://www.youtube.com/watch?v=_VM0eGiwE0s "https://www.youtube.com/watch?v=_VM0eGiwE0s")
+### Меня зовут Ватомский
 
-[https://www.youtube.com/watch?v=eaMHYc3-cfQ](https://www.youtube.com/watch?v=eaMHYc3-cfQ "https://www.youtube.com/watch?v=eaMHYc3-cfQ")
+[https://vk.com/video-228175292_456239039](https://vk.com/video-228175292_456239039 "https://vk.com/video-228175292_456239039")
 
-[https://www.youtube.com/watch?v=0Bx6tj15cfQ](https://www.youtube.com/watch?v=0Bx6tj15cfQ "https://www.youtube.com/watch?v=0Bx6tj15cfQ")
+### Интервью с П.Н. Курициным 1995 год
 
-[https://www.youtube.com/watch?v=UC5DJrwOkyc](https://www.youtube.com/watch?v=UC5DJrwOkyc "https://www.youtube.com/watch?v=UC5DJrwOkyc")
+[https://vk.com/video-228175292_456239030](https://vk.com/video-228175292_456239030 "https://vk.com/video-228175292_456239030")
 
-[https://www.youtube.com/watch?v=E4-OlQXik3s](https://www.youtube.com/watch?v=E4-OlQXik3s "https://www.youtube.com/watch?v=E4-OlQXik3s")
+###  Отец о войне 1995 год
 
-[https://www.youtube.com/watch?v=mGTjVUUE0es](https://www.youtube.com/watch?v=mGTjVUUE0es "https://www.youtube.com/watch?v=mGTjVUUE0es")
+[https://vk.com/video-228175292_456239032](https://vk.com/video-228175292_456239032 "https://vk.com/video-228175292_456239032")
 
-[https://www.youtube.com/watch?v=R8nlqhC3hoA](https://www.youtube.com/watch?v=R8nlqhC3hoA "https://www.youtube.com/watch?v=R8nlqhC3hoA")
+### НТР об отце 2005 год
+
+[https://vk.com/video-228175292_456239033](https://vk.com/video-228175292_456239033 "https://vk.com/video-228175292_456239033")
+
+### Презентация книги и фильм об отце
+
+[https://vk.com/video-228175292_456239029](https://vk.com/video-228175292_456239029 "https://vk.com/video-228175292_456239029")
+
+### Мелодия души
+
+[https://vk.com/video-228175292_456239031](https://vk.com/video-228175292_456239031 "https://vk.com/video-228175292_456239031")

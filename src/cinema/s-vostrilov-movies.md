@@ -6,9 +6,6 @@ eleventyNavigation:
   order: 1
 
 ---
-
-[<iframe src="https://vk.com/video_ext.php?oid=-228175292&id=456239039&hd=2&hash=b965d6ebac607855" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>](https://vk.com/video-228175292_456239039 "https://vk.com/video-228175292_456239039")
-
 <h3><p>Работа России.</p></h3>
 
 [https://youtu.be/m27-bdLVGiU](https://youtu.be/m27-bdLVGiU "https://youtu.be/m27-bdLVGiU")
@@ -19,9 +16,9 @@ eleventyNavigation:
 
 <h3><p>Ролики для МАУ «Управление по туризму г. Нижнего Новгорода, июль 2022».</p></h3>
 
-[https://youtu.be/NYVYeVb6apg](https://youtu.be/NYVYeVb6apg "https://youtu.be/NYVYeVb6apg")
+[https://vk.com/wall-228175292_2](https://vk.com/wall-228175292_2 "https://vk.com/wall-228175292_2")
 
-[https://www.youtube.com/watch?v=msIajmlMyY4](https://www.youtube.com/watch?v=msIajmlMyY4 "https://www.youtube.com/watch?v=msIajmlMyY4")
+[https://vk.com/wall-228175292_1](https://vk.com/wall-228175292_1 "https://vk.com/wall-228175292_1")
 
 [<h3><p>Видео материалы продюсерского центра «Деловое сотрудничество»</p></h3>](https://www.youtube.com/user/OOODS2013/videos "https://www.youtube.com/user/OOODS2013/videos")
 
@@ -40,7 +37,5 @@ eleventyNavigation:
 https://www.youtube.com/watch?v=t-8JOwWpAPQ
 
 https://www.youtube.com/watch?v=TXX6CveYMEY
-
-https://www.youtube.com/watch?v=E4-OlQXik3s
 
 https://www.youtube.com/watch?v=0BBiIl04vxo

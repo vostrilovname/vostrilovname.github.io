@@ -31,20 +31,10 @@ description: ''
 
 ### Фильм "поход по Оке"
 
-#### Часть 1.
+#### Часть 1-3.
 
-[https://youtu.be/-P1W_fbhY40](https://youtu.be/-P1W_fbhY40 "https://youtu.be/-P1W_fbhY40")
+[https://vk.com/wall-228175292_6](https://vk.com/wall-228175292_6 "https://vk.com/wall-228175292_6")
 
 Скачать: [https://disk.yandex.ru/i/Ram8AKtnlFGHRQ](https://disk.yandex.ru/i/Ram8AKtnlFGHRQ "https://disk.yandex.ru/i/Ram8AKtnlFGHRQ")
-
-#### Часть 2.
-
-[https://youtu.be/Uq6aoDCoBVw](https://youtu.be/Uq6aoDCoBVw "https://youtu.be/Uq6aoDCoBVw")
-
 Скачать: [https://disk.yandex.ru/i/z2n0Ruis8gufGQ](https://disk.yandex.ru/i/z2n0Ruis8gufGQ "https://disk.yandex.ru/i/z2n0Ruis8gufGQ")
-
-#### Часть 3. "Рыбалка"
-
-[https://youtu.be/a7kLdt830Wc](https://youtu.be/a7kLdt830Wc "https://youtu.be/a7kLdt830Wc")
-
 Скачать: [https://cloud.mail.ru/public/iZLG/1Md8q3fDT](https://cloud.mail.ru/public/iZLG/1Md8q3fDT "https://cloud.mail.ru/public/iZLG/1Md8q3fDT")
