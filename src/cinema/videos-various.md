@@ -6,6 +6,9 @@ eleventyNavigation:
   order: 2
 
 ---
+### Меня зовут Ватомский
+
+[<iframe src="https://vk.com/video_ext.php?oid=-228175292&id=456239039&hd=2&hash=b965d6ebac607855&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>](https://vk.com/video-228175292_456239039 "https://vk.com/video-228175292_456239039")
 
 ### Ролики для кадрового центра «Работа России».
 
