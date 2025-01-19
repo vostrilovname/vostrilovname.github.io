@@ -77,8 +77,6 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 ### А. Одинцов «Пьесы»
 
-[https://disk.yandex.ru/i/za9fMAZjByivKw](https://disk.yandex.ru/i/za9fMAZjByivKw "https://disk.yandex.ru/i/za9fMAZjByivKw")
-
 [Скачать книгу А. А. Одинцова «Пьесы»](https://disk.yandex.ru/i/za9fMAZjByivKw)
 
 ### Видеосюжет - Сан Саныч внезапно сбривает бороду
