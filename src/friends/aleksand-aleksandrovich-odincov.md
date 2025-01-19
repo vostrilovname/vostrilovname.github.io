@@ -79,6 +79,12 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 [https://disk.yandex.ru/i/za9fMAZjByivKw](https://disk.yandex.ru/i/za9fMAZjByivKw "https://disk.yandex.ru/i/za9fMAZjByivKw")
 
+[Скачать книгу А. А. Одинцова «Пьесы»](https://disk.yandex.ru/i/za9fMAZjByivKw)
+
+### Видеосюжет - Сан Саныч внезапно сбривает бороду
+
+[https://vk.com/wall-228175292_7](https://vk.com/wall-228175292_7 "https://vk.com/wall-228175292_7")
+
 ### Вечер памяти
 
 ![](/assets/uploads/2022/qc5ahgxus7a.jpg)
