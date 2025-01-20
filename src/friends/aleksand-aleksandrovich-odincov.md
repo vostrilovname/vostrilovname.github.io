@@ -81,7 +81,7 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 ### Видеосюжет - Сан Саныч внезапно сбривает бороду
 
-[https://vk.com/wall-228175292_7](https://vk.com/wall-228175292_7 "https://vk.com/wall-228175292_7")
+[https://vkvideo.ru/video-228175292_456239027](https://vkvideo.ru/video-228175292_456239027 "https://vkvideo.ru/video-228175292_456239027")
 
 ### Вечер памяти
 
@@ -101,7 +101,7 @@ description: 7 декабря 1961 г. – 12 августа 2022 г.
 
 ### Спектакль "Начало"
 
-[https://vk.com/video-228175292_456239026](https://vk.com/video-228175292_456239026 "https://vk.com/video-228175292_456239026")
+[https://vkvideo.ru/video-228175292_456239026](https://vkvideo.ru/video-228175292_456239026 "https://vkvideo.ru/video-228175292_456239026")
 
 ### Простые истины весны
 
