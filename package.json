@@ -48,7 +48,5 @@
     "puppeteer": "^20.2.0",
     "rimraf": "^5.0.0",
     "sitemapper": "^3.2.6"
-  },
-  "dependencies": {
   }
 }
