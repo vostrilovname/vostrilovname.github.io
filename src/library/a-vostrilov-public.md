@@ -21,7 +21,7 @@ description: Лучшие журналистские работы А. В. Вос
 
 [https://disk.yandex.ru/i/CXi-z5nWSMbELQ](https://disk.yandex.ru/i/CXi-z5nWSMbELQ "https://disk.yandex.ru/i/CXi-z5nWSMbELQ")
 
-### Тетрадь №4
+### Тетрадь
 
 ### Тетрадь №5
 
