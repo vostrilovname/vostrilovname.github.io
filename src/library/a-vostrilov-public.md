@@ -15,6 +15,20 @@ description: Лучшие журналистские работы А. В. Вос
 
 [https://disk.yandex.ru/d/aPSTUn-mI9HDRg](https://disk.yandex.ru/d/aPSTUn-mI9HDRg "https://disk.yandex.ru/d/aPSTUn-mI9HDRg")
 
+## Журналистские тетради
+
+### Тетрадь №3
+
+[https://disk.yandex.ru/i/CXi-z5nWSMbELQ](https://disk.yandex.ru/i/CXi-z5nWSMbELQ "https://disk.yandex.ru/i/CXi-z5nWSMbELQ")
+
+### Тетрадь №4
+
+### Тетрадь №5
+
+### Тетрадь №6
+
+### Тетрадь №7
+
 ## Рецепты старого травника
 
 ![Рецепты старого травника](/assets/uploads/a-vostrilov-public/01_Old_herbalist_Recipes.jpg)
