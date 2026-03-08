@@ -6,7 +6,6 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const blogTools = require("eleventy-plugin-blog-tools");
 const blogToolsExcerpt = require("eleventy-plugin-blog-tools/src/excerpt");
 const markdownIt = require("markdown-it");
-const htmlmin = require("html-minifier");
 const htmlEntities = require("html-entities");
 const embedEverything = require("eleventy-plugin-embed-everything");
 const mdImageFigures = require("markdown-it-image-figures");
@@ -137,21 +136,6 @@ module.exports = function (eleventyConfig) {
     },
     ui: false,
     ghostMode: false,
-  });
-
-  // Minify html
-  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
-    // Eleventy 1.0+: use this.inputPath and this.outputPath instead
-    if (outputPath.endsWith(".html")) {
-      let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true,
-      });
-      return minified;
-    }
-
-    return content;
   });
 
   return {
