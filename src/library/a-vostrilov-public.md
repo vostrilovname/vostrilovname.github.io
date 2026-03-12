@@ -13,6 +13,8 @@ description: Лучшие журналистские работы А. В. Вос
 
 Среди прочего, отец был участником уборки урожая на целине в 1957 году. Вот ссылка на его повесть «Земля целинная».
 
+### Земля целинная
+
 [https://disk.yandex.ru/d/aPSTUn-mI9HDRg](https://disk.yandex.ru/d/aPSTUn-mI9HDRg "https://disk.yandex.ru/d/aPSTUn-mI9HDRg")
 
 ## Журналистские тетради
@@ -21,13 +23,21 @@ description: Лучшие журналистские работы А. В. Вос
 
 [https://disk.yandex.ru/i/CXi-z5nWSMbELQ](https://disk.yandex.ru/i/CXi-z5nWSMbELQ "https://disk.yandex.ru/i/CXi-z5nWSMbELQ")
 
-### Тетрадь
+### Тетрадь №4
+
+[https://disk.yandex.ru/i/Hp_u8QpFBqkA2A](https://disk.yandex.ru/i/Hp_u8QpFBqkA2A "https://disk.yandex.ru/i/Hp_u8QpFBqkA2A")
 
 ### Тетрадь №5
 
+[https://disk.yandex.ru/i/k6T6xBncYsYY7w](https://disk.yandex.ru/i/k6T6xBncYsYY7w "https://disk.yandex.ru/i/k6T6xBncYsYY7w")
+
 ### Тетрадь №6
 
+[https://disk.yandex.ru/i/XqUmoyDvPCA2bg](https://disk.yandex.ru/i/XqUmoyDvPCA2bg "https://disk.yandex.ru/i/XqUmoyDvPCA2bg")
+
 ### Тетрадь №7
+
+[https://disk.yandex.ru/i/eoZsBlsB7bo-iQ](https://disk.yandex.ru/i/eoZsBlsB7bo-iQ "https://disk.yandex.ru/i/eoZsBlsB7bo-iQ")
 
 ## Рецепты старого травника
 
